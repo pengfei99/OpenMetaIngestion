@@ -63,3 +63,13 @@ deactivate
 ```shell
 pip install "openmetadata-ingestion~=1.4.0.1"
 ```
+
+## 3. Basic terms
+
+To fully understand the ingestion process, we need to understand some basic terms: 
+
+- Entity: A basic unit to describe a dataset(e.g. table, database, etc.). They can have hierarchy relation between them.
+               
+- Entity type: https://docs.open-metadata.org/v1.4.x/main-concepts/metadata-standard/schemas/entity/type
+- 
+``````
