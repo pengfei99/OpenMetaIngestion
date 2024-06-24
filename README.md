@@ -66,10 +66,21 @@ pip install "openmetadata-ingestion~=1.4.0.1"
 
 ## 3. Basic terms
 
+You can get a full list of the terms which open metadata uses [here](https://docs.open-metadata.org/v1.4.x/main-concepts/metadata-standard/schemas/entity)
+
 To fully understand the ingestion process, we need to understand some basic terms: 
 
 - Entity: A basic unit to describe a dataset(e.g. table, database, etc.). They can have hierarchy relation between them.
-               
+               For example, to create a table, we must follow the hierarchy `DatabaseService -> Database -> Schema -> Table`.
+
 - Entity type: https://docs.open-metadata.org/v1.4.x/main-concepts/metadata-standard/schemas/entity/type
-- 
-``````
+
+
+### 2.1 A real word example
+
+Imagine we have a `database server` called `server1` which contains `four databases`, in the database `db1`, we 
+have a schema called `schema1`, in `schema1`, we have four tables `tab1,tab2,tab3,tab4`. 
+
+To create this, we need to create an entity `server1` of type `DatabaseService` which contains an entity `db1` of 
+type `Database`, which contains an entity `schema1` of type `Schema`, which contains four entity `tab1,tab2,tab3,tab4`
+of type `Table`.
