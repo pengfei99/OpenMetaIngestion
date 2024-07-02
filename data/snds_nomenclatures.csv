@@ -1,0 +1,563 @@
+nomenclature,titre,variables_liees,nombre_lignes
+AGE_BEN_SNDS,Tranches d'âge du bénéficiaire (OPEN_DAMIR),Aucune variable liée,9
+AT_1IJ_V,Indicateur premier règlement de l'AT,Aucune variable liée,3
+AT_AAT_V,Nature de l'arrêt de travail,Aucune variable liée,24
+AT_ACC_V,Accord personne accompagnante,Aucune variable liée,4
+AT_AGE_COU_C,actes de gestion et types de courrier associés,Aucune variable liée,901
+AT_AGE_V,"actes de gestion ( MAJ à contrôler, parmi 58 tables Orphée)",Aucune variable liée,1109
+AT_ALI_V,code Alinéa : regroupement des codes natures AT,Aucune variable liée,5
+AT_AMA_V,Agent matériel de la déviation 1 & 2,Aucune variable liée,195
+AT_ANC_V,Ancienneté de l accidenté lors de l  AT,Aucune variable liée,7
+AT_APP_V,nature de l'appareillage,Aucune variable liée,9
+AT_ASP_V,Activité spécifique,Aucune variable liée,42
+AT_ATP_V,Profession de la victime d'un AT (version 212 SGE),Aucune variable liée,45
+AT_ATY_V,TOP employeur atypique,Aucune variable liée,4
+AT_AVI_V,nature décision avis,Aucune variable liée,6
+AT_BAT_V,code Batellerie,Aucune variable liée,6
+AT_BDO_V,TOP création BDO,Aucune variable liée,4
+AT_BEN_V,TOP AT bénin,Aucune variable liée,4
+AT_BUR_V,code Bureau,Aucune variable liée,4
+AT_BUT_V,Butoirs de Tarification,Aucune variable liée,12
+AT_CAR_V,CARSAT  ( version 11 Orphée),Aucune variable liée,23
+AT_CAT_V,Catégorie de Tarification,Aucune variable liée,19
+AT_CAU_V,MP - agent CAUsal,Aucune variable liée,6690
+AT_CHS_V,code présence d un CHSCT,Aucune variable liée,5
+AT_CIJ_V,Classes du nombre de jours d IJ,Aucune variable liée,10
+AT_CJU_V,Contestation juridique ( Eurydice ),Aucune variable liée,9
+AT_CMI_V,TOP lien CM,Aucune variable liée,5
+AT_CNT_V,Contexte des lésions,Aucune variable liée,5
+AT_CON_V,type de contestation (juridiction). ( Orphée  V11),Aucune variable liée,12
+AT_COU_V,types de courrier associé,Aucune variable liée,805
+AT_CPD_V,MP - Catégorie De Produit,Aucune variable liée,169
+AT_CRE_V,Code de reconnaissance MP,Aucune variable liée,4
+AT_CTN_V,code CTN,Aucune variable liée,12
+AT_CTS_V,nature de la décision de contestation,Aucune variable liée,6
+AT_DAT_V,IDAT (O/N)  TOP DAT,Aucune variable liée,5
+AT_DCD_V,indicateur de Décès consécutif au sinistre,Aucune variable liée,5
+AT_DEC_V,décision recours contre tiers ( code alpha ) ( version 11 Orphée),Aucune variable liée,5
+AT_DEX_V,code Durée d Exposition,Aucune variable liée,8
+AT_DMF_V,nature de la Décision Médicale Finale,Aucune variable liée,12
+AT_DMT_V,Discipline Médico-Tarifaire,Aucune variable liée,348
+AT_DOS_V,état du dossier ( code alpha )  ( version 11 Orphée),Aucune variable liée,10
+AT_DPS_V,Détail de la pièce saisie,Aucune variable liée,4
+AT_DPT_V,département  ( version 11 Orphée),Aucune variable liée,112
+AT_DTA_V,TOP DAT tardive (O/N),Aucune variable liée,4
+AT_DVI_V,Déviation,Aucune variable liée,53
+AT_EDO_V,Etat du Dossier  ( code numérique ) ( Eurydice ),Aucune variable liée,4
+AT_ELD_V,Elément matériel  Détaillé   ou précis,Aucune variable liée,339
+AT_ELM_V,Elément Matériel principal,Aucune variable liée,44
+AT_EMP_V,Gestion par employeur,Aucune variable liée,4
+AT_EPI_V,nature de l Episode,Aucune variable liée,7
+AT_FAT_V,Famille des AT,Aucune variable liée,28
+AT_FJU_V,Formes juridiques,Aucune variable liée,295
+AT_HIS_V,Reprise d'historique (Import),Aucune variable liée,4
+AT_HOS_V,TOP Hospitalisation,Aucune variable liée,4
+AT_HRE_V,Heure de l accident,Aucune variable liée,26
+AT_IPR_V,Regroupements des taux d IPP - DM ATMP,Aucune variable liée,14
+AT_IRT_V,Indicateur Rente / indemnité en capital,Aucune variable liée,6
+AT_ITI_V,Indicateur ITI (Indemnité Temporaire d'Inaptitude),Aucune variable liée,3
+AT_IVA_V,Indicateur de Validation ( AT ou section ),Aucune variable liée,4
+AT_JIJ_V,nb de Jours IJ avec tranche,Aucune variable liée,4002
+AT_JOU_V,Jours  - DM ATMP,Aucune variable liée,9
+AT_LAT_V,Code lieu,Aucune variable liée,9
+AT_LES_V,nature de la lésion ( version 11 Orphée) en CHAR(10),Aucune variable liée,38
+AT_LIC_V,Reclassement ou licenciement,Aucune variable liée,4
+AT_LIE_V,Lieu de l accident,Aucune variable liée,7
+AT_LSN_V,Nature des lésions (version 212 SGE)  en CHAR(3),Aucune variable liée,38
+AT_MAM_V,Code motif alineas MP,Aucune variable liée,9
+AT_MDL_V,Contact ou modalité de la blessure,Aucune variable liée,46
+AT_MET_V,"profession en AT et MP ( version 11 Orphée) en CHAR(10) ( MAJ à contrôler, parmi 58 tables Orphée)",Aucune variable liée,910
+AT_MLP_V,numéro de MP tableau - numéro de MP  bis ter -syndrome localisation - syndrome code pathologie,IMB_MLP_TAB,1206
+AT_MLT_V,numéro de MP tableau - numéro de MP  bis ter,Aucune variable liée,180
+AT_MOD_V,Mode de tarification de la section,Aucune variable liée,10
+AT_MOI_V,Mois - DM ATMP,Aucune variable liée,14
+AT_MOT_V,motif de la contestation,Aucune variable liée,22
+AT_MPP_V,Profession de la victime d'une MP (version 212 SGE),Aucune variable liée,438
+AT_MRC_V,Mode de récupération,Aucune variable liée,3
+AT_MTP_V,Majoration Tierce Personne,Aucune variable liée,6
+AT_MTY_V,TOP codification profession (Ancienne ou nouvelle).,Aucune variable liée,5
+AT_NAB_V,Nature d Assuré Bénéficiaire,Aucune variable liée,13
+AT_NAF_V,code NAF,Aucune variable liée,1446
+AT_NAT_V,code Nationalité,Aucune variable liée,5
+AT_NCT_V,Code nature élément contesté,Aucune variable liée,6
+AT_NEC_V,code élément contesté,Aucune variable liée,7
+AT_NLS_V,Nature des Lésions  en CHAR(2)  ( version 1 ),Aucune variable liée,25
+AT_NNI_V,TOP NIR ou NNP de la victime ( code alpha ) ( version 11 Orphée),Aucune variable liée,3
+AT_NNP_V,TOP NIR ou NNP de la victime ( code numérique ) ( version 11 Orphée),Aucune variable liée,8
+AT_NOT_V,TOP notification,Aucune variable liée,4
+AT_NOU_V,TOP codification (ancienne ou nouvelle),Aucune variable liée,3
+AT_NRQ_V,Nature requérant,Aucune variable liée,4
+AT_NSE_V,Nature du cotisant ( section ou autre ),Aucune variable liée,10
+AT_NTU_V,code Nature de l accident,Aucune variable liée,9
+AT_OCT_V,origine de la contestation,Aucune variable liée,11
+AT_ODF_V,origine de la  décision médicale finale,Aucune variable liée,6
+AT_OMS_V,code pathologie  ( pour MP OMS  ) codes CIM appli AT (limite à 10 600 lignes),Aucune variable liée,10606
+AT_ORC_V,code Origine de Crédit,Aucune variable liée,17
+AT_PAC_V,TOP personne accompagnante,Aucune variable liée,4
+AT_PAI_V,groupe de Paiement rente AT (périodicité),Aucune variable liée,7
+AT_PAT_V,code Profession de la victime en AT ou trajet  ( Version 1),Aucune variable liée,32
+AT_PAY_V,Code Pays,Aucune variable liée,290
+AT_PIE_V,"Type de pièce , nature des certificats médicaux",Aucune variable liée,161
+AT_PMP_V,code Profession de la victime en MP   ( Version 1),Aucune variable liée,394
+AT_PTR_V,Poste de travail,Aucune variable liée,6
+AT_QUA_V,Qualification professionnelle,Aucune variable liée,9
+AT_RCT_V,états du recours contre tiers,Aucune variable liée,5
+AT_REC_V,TOP envoi courrier (Lettre simple ou RAR),Aucune variable liée,4
+AT_REP_V,Suite repos AS,Aucune variable liée,4
+AT_REQ_V,nature requérant,Aucune variable liée,6
+AT_RNI_V,Rente Non Imputable,Aucune variable liée,3
+AT_RSQ_V,numéro de Risque,Aucune variable liée,1861
+AT_RTI_V,code Recours juridique ( Recours contre Tiers ) ( code numérique en CHAR),Aucune variable liée,5
+AT_SAN_V,TOP Sanction (O/N),Aucune variable liée,4
+AT_SDO_V,Statut du Dossier,Aucune variable liée,8
+AT_SGE_V,Siège de la lésion (version 212 SGE) en CHAR(2),Aucune variable liée,37
+AT_SIE_V,siège de la lésion  ( version 11 Orphée) en CHAR(10),Aucune variable liée,37
+AT_SIR_V,top SIRET,Aucune variable liée,5
+AT_SLP_V,Siège Principal des Lésions,Aucune variable liée,11
+AT_SLS_V,Siège Secondaire des lésions,Aucune variable liée,43
+AT_SPO_V,Statut professionnel,Aucune variable liée,8
+AT_STA_V,Statut de l épisode,Aucune variable liée,8
+AT_TAN_V,Type d'Anomalie / Signalement / Rejet ( en AT ),Aucune variable liée,4
+AT_TAR_V,mode de tarification  ( version 11 Orphée),Aucune variable liée,5
+AT_TAT_V,Tranche d Age,Aucune variable liée,11
+AT_TDO_V,Qualité de bénéficiaire,Aucune variable liée,7
+AT_TEF_V,Tranche d Effectif,Aucune variable liée,13
+AT_TEV_V,"Type d  Evènement ( dont Motif de clôture de la rente du bénéficiaire (rachat, décès) )",Aucune variable liée,35
+AT_THE_V,orientation thérapeutique accordée.,Aucune variable liée,15
+AT_TLI_V,Type de lieu,Aucune variable liée,65
+AT_TPR_V,Type de prestation,Aucune variable liée,5
+AT_TRA_V,mode de transport,Aucune variable liée,9
+AT_TRE_V,Type de Rente,Aucune variable liée,6
+AT_TRI_V,Type de rattachement individu,Aucune variable liée,4
+AT_TRQ_V,Type de risque,Aucune variable liée,4
+AT_TYC_V,Type de Crédit,Aucune variable liée,10
+AT_URG_V,Notion d'urgence,Aucune variable liée,4
+AT_URS_V,code URSSAF,Aucune variable liée,146
+AT_VIL_V,ville de la cure thermale.,Aucune variable liée,106
+AT_VLI_V,Validité de la DAT,Aucune variable liée,13
+AT_VSE_V,Validité de la Section,Aucune variable liée,8
+BEN_CMU_TOP,Titre manquant,Aucune variable liée,3
+BEN_RES_REG,Région de résidence du bénéficiaire (OPEN_DAMIR),Aucune variable liée,14
+CSARR,Catalogue spécifique des actes de rééducation et réadaptaion (prise en charge SSR),Aucune variable liée,545
+DDP_SPE_COD,Discipline de l'établissement exécutant (OPEN_DAMIR),Aucune variable liée,36
+DS_ACC_V,Mode d'accouchement,Aucune variable liée,3
+DS_ACP_V,Activité professionnelle (actif/inactif/retraité),Aucune variable liée,3
+DS_ATT_V,Accident du travail (oui/non/sans précision),Aucune variable liée,3
+DS_CAU_V,Recherche de la cause de décès,Aucune variable liée,5
+DS_CER_V,Type de certificat de décès (adulte/néonatal),Aucune variable liée,2
+DS_DEB_V,Type de début de travail d'accouchement,Aucune variable liée,3
+DS_GRS_V,Contribution de la grossesse au décès (oui/non/nsp),Aucune variable liée,3
+DS_LIA_V,Lieu d'accouchement,Aucune variable liée,3
+DS_LIE_V,Lieu du décès,Aucune variable liée,8
+DS_MAR_V,Etat matrimonial,Aucune variable liée,4
+DS_NAI_V,Type de naissance,Aucune variable liée,5
+DS_PC1_V,Catégorie socio-professionnelle,Aucune variable liée,8
+DS_PC2_V,Titre manquant,Aucune variable liée,24
+DS_PC3_V,Titre manquant,Aucune variable liée,42
+DS_PFS_V,Activité professionnelle du parent,Aucune variable liée,5
+DS_PST_V,Type de présentation de l'enfant lors de l'accouchement,Aucune variable liée,4
+DS_SIT_V,Situation de la mère (en couple : oui/non),Aucune variable liée,2
+DS_STA_V,Statut de traitement du certificat de décès (final/en cours),Aucune variable liée,2
+DS_SUP_V,Type de support du certificat de décès (électronique/papier),Aucune variable liée,2
+DS_TRF_V,Transfert ou hospitalisation particulière de l'enfant (oui/non),Aucune variable liée,2
+DS_VER_V,Version du certicat de décès (1997/2017),Aucune variable liée,2
+DS_VOL_V,Volet du certificat de décès (intial/complémentaire),Aucune variable liée,2
+DW_DTC_V,Source de détection ( projet GRECOT ),Aucune variable liée,52
+DW_PRO_V,Protocole            ( projet GRECOT ),Aucune variable liée,3
+DW_RSQ_V,nature de risque     ( projet GRECOT ),Aucune variable liée,3
+DW_STA_V,état de statut      ( projet GRECOT ),Aucune variable liée,65
+ETE_CAT_SNDS,Catégorie de l'établissement exécutant (OPEN DAMIR),Aucune variable liée,46
+ETE_REG_COD,Région d'implantation de l'établissement exécutant (OPEN DAMIR),Aucune variable liée,14
+ETE_TYP_SNDS,Type d'établissement (OPEN DAMIR),Aucune variable liée,7
+ETP_CAT_SNDS,Catégorie de l'établissement prescripteur (OPEN DAMIR),Aucune variable liée,46
+ETP_REG_COD,Région d'implantation de l'établissement prescripteur (OPEN DAMIR),Aucune variable liée,14
+EXC_FIN_MTF,Motif de fin d'exercice libéral,EXC_FIN_MTF,10
+EXE_INS_REG,Region du professionnel de santé exécutant (OPEN DAMIR),Aucune variable liée,14
+FC_BSE_V,FDC Table de conversion des organismes de base,Aucune variable liée,3118
+FC_CAI_V,FDC Table de conversion des Caisses  ( table organisme ),Aucune variable liée,155
+FC_ORG_V,FDC Table de conversion des organismes fins,Aucune variable liée,63206
+FC_TCL_V,FDC Table des Méthodes de Traitement,Aucune variable liée,3
+FC_VEX_V,FDC Table d'exclusion des Vues,Aucune variable liée,3741
+GA_CEN_V,Centre de numérisation et de vidéocodage,Aucune variable liée,4
+GA_EDI_V,Code origine édition,Aucune variable liée,3
+GA_GBE_V,Genre du bénéficiaire,Aucune variable liée,10
+GA_INJ_V,Numéro de coupon d'injection,Aucune variable liée,3
+GA_TNI_V,Top NIR fictif,Aucune variable liée,3
+GA_UVA_V,Code usine vaccin,Aucune variable liée,7
+IR_ACC_V,Indication accident,Aucune variable liée,4
+IR_ACH_V,Type d'acheminement des flux,Aucune variable liée,4
+IR_ACO_V,Codes ACOSS,Aucune variable liée,138
+IR_ACT_COD,Lettre clé du Code Ngap,Aucune variable liée,434
+IR_ACT_V,Nature d'Activité (Non Médecins),"PSE_ACT_NAT, PSP_ACT_NAT",31
+IR_AFT_V,Type d'Affinage pour Regroupements TANDEM,Aucune variable liée,4
+IR_AGE_V,Age,AGE_BEN_COD,127
+IR_ALD_V,Table des codes ALD030,IMB_ALD_NUM,34
+IR_AMA_V,Tranche d'âge,BEN_AMA_COD,155
+IR_ANC_V,Type de remboursement,CPL_ANO_COD,10
+IR_ANN_V,Table des années,Aucune variable liée,155
+IR_APS_V,Tranche d'Age PS5,Aucune variable liée,23
+IR_ARC_V,Options Archivage,Aucune variable liée,3
+IR_ASN_V,Tranche d'Age SNIREP,Aucune variable liée,15
+IR_ASS_V,Table ASSONP,Aucune variable liée,6
+IR_ASU_V,Nature d'Assurance,"ARO_ASU_NAT, ASU_NAT, RGO_ASU_NAT",12
+IR_ATT_V,Nature d'Accident du Travail,ATT_NAT,5
+IR_BAC_V,Top bénéficiaire ACS,DRT_ACS_TOP,3
+IR_BCM_V,Top bénéficiaire CMU C,Aucune variable liée,4
+IR_BEN_V,Contexte bénéficiaire,Aucune variable liée,6
+IR_BEQ_V,Qualité de Bénéficiaire,BEN_QLT_COD,6
+IR_BER_V,Rang Gémellaire Bénéficiaire,BEN_RNG_GEM,10
+IR_BIO_R,Nomenclature des actes médicales de biologie,BIO_ACT_QSN,1125
+IR_BRA_V,Branche Comptable,Aucune variable liée,3
+IR_BRG_V,Libellés regroupés BEQ,Aucune variable liée,4
+IR_BTF_R,Nomenclature des coefficients actes affinés en biologie,Aucune variable liée,2204
+IR_BVR_R,Titre manquant,Aucune variable liée,38
+IR_C2S_V,Type C2S,Aucune variable liée,4
+IR_CAC_V,Catégorie d'Activité PS,Aucune variable liée,10
+IR_CAE_DEP_C,Compatibilité Catégorie PS Exécutant / Qualificatif Dépense,Aucune variable liée,107
+IR_CAI_V,Caisse - Organisme de base,"ORB_BSE_NUM, ORG_CAI_NUM, ORL_BSE_NUM",2756
+IR_CAT_V,Catégorie Professionnel de Santé,"PSE_CAT_COD, PSP_CAT_COD",11
+IR_CBI_V,Catégorie de Bénéficiaire (Invalidité et Rentes AT),BEN_IAT_CAT,45
+IR_CCAM_V54,Classification commune des actes médicaux (ATIH),Aucune variable liée,8053
+IR_CCAM_V63,Classification commune des actes médicaux (CNAM),Aucune variable liée,8161
+IR_CCA_V,Codes compléments associés,CPL_AFF_COD,31
+IR_CCI_V,Table des catégories de codes CIM,Aucune variable liée,2059
+IR_CCP_R,Titre manquant,Aucune variable liée,2043
+IR_CE1_V,Regroupement 1 des Catégories d'établissement,Aucune variable liée,48
+IR_CE2_V,Regroupement 2 des Catégories d'établissement,Aucune variable liée,11
+IR_CE3_V,Regroupement 3 des Catégories d'établissement,Aucune variable liée,3
+IR_CEE_V,Table CTI ERSM ELSM,Aucune variable liée,135
+IR_CER_V,niveau de certification,Aucune variable liée,7
+IR_CET_D,Catégorie d'établissement (Dénormalisée),Aucune variable liée,142
+IR_CET_V,Catégorie d'établissement,"ETE_CAT_COD, ETP_CAT_COD",142
+IR_CIA_V,Catégorie Affinée de Pension d'Invalidité,Aucune variable liée,41
+IR_CII_V,Centre de Traitement Informatique Informationnel (CTII),Aucune variable liée,13
+IR_CIM_V,Tables de codes CIM10 ( MAJ à contrôler ),MED_MTF_COD,18334
+IR_CIP_V,Table des classes thérapeutiques ATC par code CIP,Aucune variable liée,9635
+IR_CIV_V,Catégorie de Pension d'Invalidité,INV_PEN_CAT,8
+IR_CLC_V,Code Libellé de Contrôle,DCT_CTL_COD,58
+IR_CMD_V,Regroupement GHS,Aucune variable liée,31
+IR_CMF_V,Regroupement Postes Comptables CMU / Participation / Forfait,Aucune variable liée,5
+IR_CMH_V,Regroupement de Postes Comptables CMU / Hono / Optiq / Soin / Frais,Aucune variable liée,16
+IR_CMU_V,Postes Comptables CMU,Aucune variable liée,19
+IR_CNV_V,Conventions Médicales,"CNV_CNV_COD, PSE_CNV_COD, PSP_CNV_COD",6
+IR_COC_V,Catégorie d'Organisme Complémentaire,BEN_CMU_CAT,10
+IR_COP_V,Comptes COPERNIC,Aucune variable liée,1685
+IR_CPA_V,Complément d'Acte,"ARO_CPL_COD, CPL_COD",5
+IR_CPM_V,Regroupement complément d'acte/majorations,Aucune variable liée,4
+IR_CRA_V,Caisse Régionale Assurance Maladie (CRAM) ( table organisme ),Aucune variable liée,22
+IR_CSS_V,Code C2S,Aucune variable liée,3
+IR_CTA_V,type de contrat complémentaire,Aucune variable liée,100
+IR_CTI_V,Centre de Traitement Informatique de Production (CTI),Aucune variable liée,25
+IR_CTL_V,Type de contrôle,DCT_CTL_TYP,6
+IR_DCT_V,Décès / Transfert,Aucune variable liée,3
+IR_DDP_MDT_C,Compatibilité DDP / MDT,Aucune variable liée,1575
+IR_DDP_V,Discipline de prestation établissement,DDP_COD,454
+IR_DEM_V,Options Démographie,Aucune variable liée,3
+IR_DEP_V,Qualificatif Dépense de Prestation,"DPN_QLF, PRS_DPN_QLP",20
+IR_DEV_V,Devise,Aucune variable liée,3
+IR_DIP_V,Dispositif de Prévention,Aucune variable liée,4
+IR_DIS_V,utilisation du distancier,Aucune variable liée,4
+IR_DPT_DGP_V,"Département (2 caractères), Région, nouveau département",Aucune variable liée,182
+IR_DPT_V,Département ( avec code région ),"BEN_RES_DPT, ETE_DPT_COD, ETP_DPT_COD, EXE_INS_DPT, PRE_INS_DPT",117
+IR_DRA_V,Nature de destinataire du règlement affiné,Aucune variable liée,26
+IR_DRG_V,Nature de destinataire du règlement,DRG_NAT,11
+IR_DSP_V,Droits Spécifiques,BEN_DRT_SPF,4
+IR_DTE_V,Période civile journalière,"BEN_DCD_DTD, BEN_DCD_DTE, DCT_ARC_DTE, DCT_ARR_DTE, DCT_MAN_DTD, DCT_REM_DTD, EXE_SOI_AMD, EXE_SOI_AMF, EXE_SOI_DTD, EXE_SOI_DTF, FLX_DIS_DTD, FLX_TRT_DTD, IMB_ALD_DTD, IMB_ALD_DTF, INV_ATR_DTD, MAJ_SYS_DTE, ORG_AFF_DTF, PRE_PRE_AMD, PRE_PRE_DTD, PRS_GRS_DTD, PRS_HOS_AMD, PRS_HOS_DTD, RAT_IPP_DTE, TIP_ACL_DTF, TIP_ACT_PRU",55883
+IR_DTR_V,Codes Détail Transport,TRS_PRS_IDE,71
+IR_EIN_V,Etat de pension d'invalidité,INV_PEN_ETA,23
+IR_EMF_V,Nomenclature des émetteurs fins,Aucune variable liée,147
+IR_ENT_V,Mode d'entrée,Aucune variable liée,10
+IR_ENV_V,Type d'enveloppe,"ARO_ENV_TYP, CPT_ENV_TYP, RGO_ENV_TYP",11
+IR_EPH_R,Titre manquant,Aucune variable liée,939
+IR_EPS_V,Code nature d'exercice du PS,EXC_EXC_NAT,14
+IR_ERG_V,Libellés regroupés EXO,Aucune variable liée,9
+IR_ETM_V,Nature d'exonération du Ticket Modérateur,IMB_ETM_NAT,19
+IR_EXO_V,Motif d'exonération du Ticket Modérateur,EXO_MTF,24
+IR_EXR_V,"Exercice de Rattachement ( MAJ annuelle à contrôler , à faire dans l'année )",Aucune variable liée,103
+IR_FIR_D,Identification des prestations relevant du FIR,Aucune variable liée,43
+IR_FJH_V,Type de Prise en Charge Forfait Journalier,"ARO_FJH_TYP, BSE_FJH_TYP, CPL_FJH_TYP, PRS_FJH_TYP",6
+IR_FLP_R,Titre manquant,Aucune variable liée,7359
+IR_FOR_V,Forçage du taux,"ARO_FTA_COD, CAM_RED_MNT, RGO_FTA_COD",8
+IR_GDE_V,Grande Discipline de Prestation,Aucune variable liée,13
+IR_GEO_V,Géographie Administrative et Sanitaire,BEN_RES_COM,40589
+IR_GES_V,Gestion Comptable,"GES_CPT_COD, GES_GRG_COD",477
+IR_GET_V,Médicament générique,Aucune variable liée,7
+IR_GHS_SU0_V,Suppléments GHS 2010,Aucune variable liée,2
+IR_GHS_SU1_V,Suppléments GHS 2011,Aucune variable liée,2
+IR_GHS_SU2_V,Suppléments GHS 2012,Aucune variable liée,2
+IR_GHS_SU3_V,Suppléments GHS 2013,Aucune variable liée,2
+IR_GHS_SU8_V,Suppléments GHS 2008,Aucune variable liée,2
+IR_GHS_SU9_V,Suppléments GHS 2009,Aucune variable liée,2
+IR_GHS_TA0_V,Tarifs GHS 2010,Aucune variable liée,2420
+IR_GHS_TA1_V,Tarifs GHS 2011,Aucune variable liée,2433
+IR_GHS_TA2_V,Tarifs GHS 2012,Aucune variable liée,2542
+IR_GHS_TA3_V,Tarifs GHS 2013,Aucune variable liée,2649
+IR_GHS_TA8_V,Tarifs GHS 2008,Aucune variable liée,804
+IR_GHS_TA9_V,Tarifs GHS 2009,Aucune variable liée,2346
+IR_GHS_V,Groupe homogène de séjour  GHS   code GHS_GRP_TYP = S  ( MAJ annuelle ),ETE_GHS_NUM,9607
+IR_GHT_V,Groupe homogène de séjour  GHS   code GHS_GRP_TYP = T ( table générée depuis la table IR_GHS_V ),Aucune variable liée,64
+IR_GLF_V,Grands Postes LFSS,Aucune variable liée,29
+IR_GRG_V,Grand Régime,Aucune variable liée,23
+IR_GRP_V,Membre d'un groupe ou d'une association,Aucune variable liée,9
+IR_HAD_PEC_PAL,"Motif de prise en charge principal, HAD",Aucune variable liée,27
+IR_HAD_V,HAD en médico-social,BEN_EHP_TOP,4
+IR_HIS_R,Titre manquant,Aucune variable liée,2175
+IR_ICL_V,Indicateur de Contrôle,Aucune variable liée,8
+IR_INT_V,Type de version interface tiers,DCT_INT_VER,5
+IR_JDC_V,Justification des droits AMC,Aucune variable liée,13
+IR_JDO_V,Justification des droits AMO,Aucune variable liée,9
+IR_LFS_V,Postes LFSS,Aucune variable liée,67
+IR_LHS_V,Loi Hospitalière/Sociale,Aucune variable liée,4
+IR_LIE_V,lieu d'exécution ( de l'acte médical ),EXE_LIE_COD,5
+IR_LLD_V,Regroupement LFSS / Labo / Dentistes / Med / Para,Aucune variable liée,55
+IR_LOH_V,Regroupement de Postes LFSS / ONDAM / Hors ONDAM,Aucune variable liée,3
+IR_LPP_V,Liste des Produits et des Prestations,Aucune variable liée,4923
+IR_LSM_V,Table des codes ELSM,Aucune variable liée,135
+IR_LVE_V,Regroupement LFSS / Soins Ville / Etab / Autre,Aucune variable liée,4
+IR_MAJ_V,Type de Majoration,PRS_TYP_MAJ,3
+IR_MCN_V,Vraisemblance des Coefficients / Montants / Dénombrements,Aucune variable liée,0
+IR_MCO_V,Table MCO médecine/chirurgie/obstétrique,ETE_MCO_DDP,9
+IR_MDP_V,Mode de prescription,PHA_MOD_PRN,7
+IR_MDT_V,Mode de Traitement,MDT_COD,25
+IR_MED_V,Informations Médicales,Aucune variable liée,2109
+IR_MEP_V,Mode d'exercice Particulier (Omnipraticiens),PRA_MEP_COD,66
+IR_MFT_V,Mode de Fixation de Tarif,MFT_COD,37
+IR_MIN_V,type de minoration,Aucune variable liée,6
+IR_MIR_D,Table des Comptes Comptables MIRCOSS (Dénormalisée),Aucune variable liée,29507
+IR_MIR_V,Comptes Comptables MIRCOSS,Aucune variable liée,29507
+IR_MOD_V,Mode de Règlement,DRG_MOD,11
+IR_MOI_V,Période Civile Mensuelle,Aucune variable liée,1838
+IR_MP2_V,Table des modificateurs parcours de soins sur 2 caractères,Aucune variable liée,37
+IR_MPA_V,Participation de l'assuré HPDS,Aucune variable liée,3
+IR_MPS_V,Table des modificateurs (parcours de soin),Aucune variable liée,33
+IR_MSB_V,Motif de substitution du médicament,Aucune variable liée,6
+IR_MTF_V,motif de fin de contrat avec le médecin traitant,Aucune variable liée,3
+IR_MTM_V,Modulation du Ticket Modérateur,MTM_NAT,7
+IR_MTO_V,indicateur tarification METEORe dans le cadre du projet Météor,Aucune variable liée,3
+IR_MTR_V,Motif du Transport,TRS_TRS_MTF,36
+IR_NAL_V,Nombre d'ALD dont les patients sont victimes,Aucune variable liée,5
+IR_NAT_ACE_C,Compatibilite Nature de Prestation /  Nature d'Activite Executant,Aucune variable liée,2249
+IR_NAT_ACP_C,Compatibilite Nature de Prestation _  Nature d'Activite Prescripteur,Aucune variable liée,920
+IR_NAT_ASU_C,Compatibilite Nature de Prestation _ Nature d'Assurance,Aucune variable liée,3613
+IR_NAT_BEQ_C,Compatibilite Nature de Prestation _ Qualite de Beneficiaire,Aucune variable liée,4950
+IR_NAT_CAE_C,Compatibilite Nature de Prestation _ Categorie PS Executant,Aucune variable liée,2199
+IR_NAT_CAP_C,Compatibilite Nature de Prestation _ Categorie PS Prescripteur,Aucune variable liée,1125
+IR_NAT_COE_C,Compatibilite Nature de Prestation _ Coefficient Maxi,Aucune variable liée,602
+IR_NAT_CPA_C,Compatibilite Nature de Prestation _ Complement d'Acte,Aucune variable liée,1661
+IR_NAT_DDP_C,Compatibilité Nature de Prestation _ DDP,Aucune variable liée,980
+IR_NAT_DEP_C,Compatibilite Nature de Prestation _ Qualificatif Depense,Aucune variable liée,3587
+IR_NAT_DTR_C,Compatibilité Nature de Prestation _ Code Affiné Transport,Aucune variable liée,215
+IR_NAT_FRF_C,Compatibilité Nature de Prestation _ Forfait transport _ Forfait Kilométrique,Aucune variable liée,162
+IR_NAT_MDT_C,Compatibilité Nature de Prestation _ Mode de Traitement,Aucune variable liée,379
+IR_NAT_PPU_C,Compatibilite Nature de Prestation _ Code Prive Public,Aucune variable liée,2630
+IR_NAT_QTE_C,Compatibilite Nature de Prestation _ Quantite Maxi,Aucune variable liée,915
+IR_NAT_SAN_C,Compatibilité Nature de Prestation _ Centre de Santé,Aucune variable liée,945
+IR_NAT_SPE_C,Compatibilite Nature de Prestation _ Specialite PS Executant,Aucune variable liée,15351
+IR_NAT_SPP_C,Compatibilite Nature de Prestation _ Specialite PS Prescripteur,Aucune variable liée,16917
+IR_NAT_TAU_C,Compatibilite Nature de Prestation _ Taux de Prise en charge,Aucune variable liée,730
+IR_NAT_TYF_C,Compatibilité Nature de Prestation _ Type de forfait,Aucune variable liée,48
+IR_NAT_V,Nature Prestation,"ARO_PRS_NAT, BSE_PRS_NAT, CPL_PRS_NAT, PRS_NAT, PRS_NAT_REF",1509
+IR_NAT_W,Table de travail / NE PAS MODIFIER,Aucune variable liée,0
+IR_NDT_V,Nature de la dette,Aucune variable liée,134
+IR_NEM_T,Numéros d'émetteurs restitution,FLX_EMT_NUM,36
+IR_NEM_V,Numéros d'émetteurs,FLX_EMT_NUM,150
+IR_NEX_V,Nature d'Exercice d'un PS,Aucune variable liée,4
+IR_NFS_V,Nature fin de séjour,ETE_NAT_FSJ,10
+IR_NGC_V,Numéro de gestion Comptable,Aucune variable liée,513
+IR_NIR_V,Codes indicateurs NIR,BEN_CDI_NIR,57
+IR_NMD_V,Nomenclature Médicale,MED_NCL_IDT,4
+IR_NPS_V,Notion de parcours de soin,Aucune variable liée,4
+IR_OBS_V,Code Observation,Aucune variable liée,7
+IR_OPL_V,Nature d'opération de liquidation,Aucune variable liée,19
+IR_OPR_V,Nature des Opérations de Récupération,Aucune variable liée,25
+IR_ORG_V,organismes,"BEN_CMU_ORG, ORG_AFF_BEN, ORG_CLE_NEW, ORG_CLE_NUM",63206
+IR_ORI_V,origine de la saisie ou de la mise à jour de la déclaration de médecin traitant,Aucune variable liée,5
+IR_PAF_V,Participation forfaitaire,PRS_PPF_COD,16
+IR_PAY_V,Pays,Aucune variable liée,2
+IR_PCT_V,Périodes comptables,CPT_DEP_PER,128
+IR_PEL_V,"""""""Indicateur """"""""Prescription en ligne""""""""""""""",Aucune variable liée,3
+IR_PEN_V,type de pension,Aucune variable liée,5
+IR_PHA_R,"Référentiel des médicaments (correspondance CIP13, ATC et libellés)","PHA_ACT_PRU, PHA_ACT_QSN, PHA_CPA_PCP, PHA_DEC_PRU, PHA_DEC_QSU, PHA_PRS_IDE",27941
+IR_PMC_V,Type de part mutuelle complémentaire,DCT_MUT_CMP,0
+IR_PNE_V,Prestation en Nature / Espèce et Autre,Aucune variable liée,5
+IR_POS_V,Code Postal,Aucune variable liée,39559
+IR_PPU_V,Secteur d'Activité (Prive / Public),PRS_PPU_SEC,3
+IR_PRF_V,Type de Prestation Fournie (Dispositifs Médicaux),TIP_PUB_PRX,9
+IR_PRO_V,Contexte Professionnel de Santé,Aucune variable liée,53
+IR_PTF_R,Titre manquant,Aucune variable liée,67147
+IR_PVR_R,Titre manquant,Aucune variable liée,1239
+IR_QBA_V,Qualité de Bénéficiaire Affinée,BEN_QAF_COD,16
+IR_QPE_V,Table des qualificatifs de parcours de soin (entrée),PRS_PDS_QTP,13
+IR_QPS_V,Table des qualificatifs de parcours de soin (sortie),PRS_PDS_QCP,26
+IR_RAN_V,Regroupement type anomalie,Aucune variable liée,6
+IR_REF_V,Medecin référent,Aucune variable liée,4
+IR_REG_V,Région ( anciens et nouveaux libellés ),Aucune variable liée,36
+IR_REK_V,Indicateurs Référentiel EP Kiné,PRS_REF_KIN,3
+IR_REN_V,type de Renouvellement,PRE_REN_COD,6
+IR_RGM_ASU_C,Compatibilité Régime d'Affiliation _ Nature d'Assurance,Aucune variable liée,9118
+IR_RGM_BEQ_C,Compatibilité Régime d'Affiliation _ Qualité de Bénéficiaire,Aucune variable liée,4822
+IR_RGM_V,Petit Régime d'Affiliation,"RGM_COD, RGM_GRG_COD",1281
+IR_RGP_V,type de regroupement de séjour dans le cadre du projet T2A SSR,Aucune variable liée,5
+IR_RGT_V,Regroupement de prestations,Aucune variable liée,64
+IR_RGU_V,Sens de la régularisation,DCT_RGU_SNS,5
+IR_RNM_V,indicateur du RNIAM,Aucune variable liée,14
+IR_RP1_V,Regroupement HPHE Détaillé Honoraires Spécialistes et Auxiliaires,Aucune variable liée,136
+IR_RP2_V,Regroupement HPHE Détaillé Honoraires Auxiliaires,Aucune variable liée,28
+IR_RP3_V,Regroupement Hono Presc Hospit Espece (HPHE),Aucune variable liée,8
+IR_RRG_V,Regroupement de régimes,Aucune variable liée,3
+IR_RSM_V,Table des codes ERSM,Aucune variable liée,26
+IR_RVL_V,Nature de la revalorisation (IJ),IJR_RVL_NAT,9
+IR_SAF_V,Type de Saisie Affinée ou Support d'Entrée,DCT_ENT_SUP,554
+IR_SAI_V,Type de Saisie ou Système a l'Origine du Mouvement,DCT_MVT_SYS,10
+IR_SAN_V,Centre de Santé,Aucune variable liée,15
+IR_SAT_V,Motif de suppression de la rente AT,Aucune variable liée,11
+IR_SEQ_V,Séquence de renouvellement,PHA_SEQ_RNV,100
+IR_SEX_V,Sexe,BEN_SEX_COD,4
+IR_SFJ_V,Type de supplément forfait,Aucune variable liée,16
+IR_SGN_V,Signe du Mouvement,"ARO_REM_SGN, BSE_REM_SGN, CPL_REM_SGN",4
+IR_SJE_V,Statut juridique d'établissement,"ETE_STJ_COD, ETP_STJ_COD",62
+IR_SJP_V,Statut Juridique ou Mode d'exercice d'un PS,"PSE_STJ_COD, PSP_STJ_COD",10
+IR_SL2_V,RGT Mutuelles affiliées,Aucune variable liée,4
+IR_SLG_V,Regroupement SLM,Aucune variable liée,9
+IR_SLM_V,Section Locale Mutualiste (SLM),"MUT_ORG, SLM_RTT_COD",65
+IR_SNS_V,Sens du Mouvement,CPT_MVT_SNS,3
+IR_SOP_V,Sortie / Présence,Aucune variable liée,3
+IR_SPA_D,regroupement de spécialités médicales et nature d'activité,PFS_PRA_SPE,86
+IR_SPD_V,Spécialité de Discipline,Aucune variable liée,36
+IR_SPE_D,Spécialités médicales (Dénormalisée),Aucune variable liée,57
+IR_SPE_V,Spécialités médicales,"PSE_SPE_COD, PSP_SPE_COD",57
+IR_SPS_V,Regroupement de Spécialité pour les Statistiques Mensuelles,Aucune variable liée,5
+IR_SPT_V,Regroupement de Spécialité pour TANDEM,Aucune variable liée,4
+IR_SRG_V,Libellés regroupés SJP,Aucune variable liée,6
+IR_STA_V,Regroupement de Prestation pour les Statistiques Mensuelles,Aucune variable liée,15
+IR_STJ_MFT_C,Compatibilité MFT _ STJ,Aucune variable liée,1989
+IR_SUB_V,Motif de Substitution Médicament,PHA_SUB_MTF,7
+IR_SVI_V,Indicateur de suivi du n° RPPS,PSP_SVI_PPS,11
+IR_TAA_V,Impact T2A publique sur le référentiel tables,ETE_IND_TAA,5
+IR_TAE_V,Type d'activité établissement,Aucune variable liée,15
+IR_TAJ_R,Titre manquant,Aucune variable liée,0
+IR_TAN_V,Type d'Anomalie / Signalement / Rejet,PRS_ANO_COD,434
+IR_TAU_V,Taux de Prise en Charge,"ARO_REM_TAU, ARO_THE_TAU, RGO_THE_TAU",27
+IR_TCM_V,Type de Procédure de Paiement CMU,BEN_PAI_CMU,4
+IR_TCP_V,Type de CIP délivré,Aucune variable liée,5
+IR_TCR_V,Top certification du lot,DCT_LOT_TCR,8
+IR_TCU_V,Type de codage UCD,Aucune variable liée,4
+IR_TDM_V,Regroupement de Prestation pour TANDEM,Aucune variable liée,23
+IR_TDU_V,Top déconditionnement,PHA_DEC_TOP,3
+IR_TEK_REK_C,Compatibilité Top Entente Préalable Kiné Indicateur Référentiel Kiné,Aucune variable liée,2
+IR_TEK_V,Top Entente Préalable Kiné,PRS_TOP_ENP,4
+IR_TMT_V,Origine de la prescription,PRS_PRE_MTT,6
+IR_TOC_V,Top option de coordination,PRS_CRD_OPT,6
+IR_TOP_V,Indicateur tarif opposable,PRS_OPS_TRF,4
+IR_TOR_V,Types d'organismes,Aucune variable liée,6
+IR_TPR_V,Types de prestation Kiné,PRS_TYP_KIN,6
+IR_TRG_V,Libellés regroupés TAU,Aucune variable liée,3
+IR_TTX_V,Type de Taux,Aucune variable liée,6
+IR_TUM_V,codes de regroupement de tumeurs pour les codes cim10 relevant de l'ald numéro 30,Aucune variable liée,26
+IR_TYA_V,Type d'acte,Aucune variable liée,4
+IR_TYE_V,Type d'établissement,ETE_TYP_COD,11
+IR_TYO_V,Type d'Organisme,Aucune variable liée,5
+IR_TYR_V,Type de Remboursement,"ARO_REM_TYP, PRS_REM_TYP",13
+IR_TYT_V,Type de Transmetteur,FLX_EMT_TYP,25
+IR_TYV_V,Type de Ventilation,Aucune variable liée,9
+IR_UCD_V,Unité Commune de Dispensation,Aucune variable liée,1436
+IR_URC_V,URCAM / ARH ( région ),Aucune variable liée,35
+IR_VIT_V,indicateur de forçage Sesam Vitale,Aucune variable liée,19
+IR_ZTP_V,Zone Tarif PS,Aucune variable liée,25
+MDT_TYP_COD,Mode de traitement de l'établissement exécutant (OPEN DAMIR),Aucune variable liée,4
+MS_ACT_V,code Acte,Aucune variable liée,702
+MS_ASN_V,Nature d'assurance PMSI,Aucune variable liée,7
+MS_ATV_V,Activité de l'acte,Aucune variable liée,7
+MS_AUT_V,Type d'UM autorisé,Aucune variable liée,18
+MS_CDM_V,Nomenclature CDAM (Actes Hospitaliers),Aucune variable liée,12687
+MS_CIM_V,Codes Diagnostics (CIM10) pour le PMSI (limite à 20 000 lignes) ( MAJ à contrôler ),Aucune variable liée,19272
+MS_CIV_V,Code Civilité,Aucune variable liée,5
+MS_CSX_V,Controle du Sexe,Aucune variable liée,5
+MS_DST_V,Destination,Aucune variable liée,8
+MS_ENR_V,Type d'enregistrement,Aucune variable liée,9
+MS_ENT_ENR_C,Compatibilité mode d Entrée du champ - type d Enregistrement,Aucune variable liée,7
+MS_ENT_PRV_C,Compatibilité mode d Entree du champ -  Provenance,Aucune variable liée,16
+MS_ENT_V,Mode d'entree du champ PMSI_MCO,Aucune variable liée,6
+MS_FFT_V,Forfait Dialyse,Aucune variable liée,21
+MS_FMT_V,Type de format RSF (Ancien / Nouveau),Aucune variable liée,4
+MS_GM7_V,Groupe Homogene de Malade (GHM) V7,Aucune variable liée,651
+MS_GM9_V,Groupe Homogene de Malade (GHM) V9,Aucune variable liée,838
+MS_JTM_V,Justification de l'exonération du TM,Aucune variable liée,13
+MS_LDD_V,Passage dans un lit dédié aux soins Palliatifs,Aucune variable liée,5
+MS_NFS_V,Nature d'interruption ou de fin de séjour,Aucune variable liée,8
+MS_OPE_V,Nature d'opération,Aucune variable liée,7
+MS_PDP_V,Position du Diagnostic Principal,Aucune variable liée,103
+MS_PEC_V,Code de prise en charge,Aucune variable liée,7
+MS_PHA_V,Phase de l'acte CCAM,Aucune variable liée,6
+MS_PPO_V,Type de Prestation de Prélèvement d'Organes,Aucune variable liée,5
+MS_PRV_V,Provenance,Aucune variable liée,9
+MS_REC_V,Nature opération de récupération,Aucune variable liée,17
+MS_RES_V,Code géographique de résidence,Aucune variable liée,6088
+MS_RT7_V,Resultat du groupage (version de groupage_CMD_GHM_Code retour) RT7,Aucune variable liée,86
+MS_RT9_V,Resultat du groupage (version de groupage_CMD_GHM_Code retour) RT9,Aucune variable liée,102
+MS_SEJ_V,Type de sejour,Aucune variable liée,4
+MS_SOR_DST_C,Compatibilité mode de Sortie du champ - Destination,Aucune variable liée,16
+MS_SOR_V,Mode de Sortie du Champ PMSI_MCO,Aucune variable liée,7
+MS_TAA_V,Table des Types d'activités autorisées,Aucune variable liée,12
+MS_TAL_V,Type d'autorisation de lit dédié fréquenté par le patient,Aucune variable liée,4
+MS_TCH_V,Top ( oui / non ),Aucune variable liée,4
+MS_TOP_V,Top Numérique ( oui / non ),Aucune variable liée,4
+MS_VLP_V,Code Valorisation partielle,Aucune variable liée,6
+NT_LPP,Liste des produits et prestations,Aucune variable liée,28850
+NU_UCD_R,"Unité Commune de Dispensation, médicaments rares en hospitalier, (codes cip7)",Aucune variable liée,1812
+ON_CLE_W,Clé de répartition  pour  remboursement,Aucune variable liée,315420
+ON_SDV_W,invite BO soins de ville Fusion,Aucune variable liée,263
+ORG_CLE_REG,Région de l'organisme de liquidation (OPEN DAMIR),Aucune variable liée,14
+PRE_INS_REG,Région du professionnel de santé prescripteur (OPEN DAMIR),Aucune variable liée,14
+PSE_ACT_CAT,Catégorie d'activité de l'exécutant (OPEN DAMIR),Aucune variable liée,11
+PSE_ACT_SNDS,Nature d'activité du professionnel de santé exécutant (OPEN DAMIR),Aucune variable liée,14
+PSE_SPE_SNDS,Spécialité médicale du professionnel de santé exécutant (OPEN DAMIR),Aucune variable liée,29
+PSE_STJ_SNDS,Statut juridique du professonnel de santé exécutant (OPEN DAMIR),Aucune variable liée,4
+PSP_ACT_CAT,Catégorie d'activité du prescripteur (OPEN DAMIR),Aucune variable liée,11
+PSP_ACT_SNDS,Nature d'activité du professionnel de santé prescripteur (OPEN DAMIR),Aucune variable liée,14
+PSP_SPE_SNDS,Spécialité médicale du professionnel de santé prescripteur (OPEN DAMIR),Aucune variable liée,27
+PSP_STJ_SNDS,Statut juridique du professonnel de santé prescripteur (OPEN DAMIR),Aucune variable liée,4
+PX_APP_V,applications,Aucune variable liée,13
+PX_CAT_V,catégories télé-service,Aucune variable liée,18
+PX_DRS_V,table d'association entre les Caisses et les DRSM,Aucune variable liée,133
+PX_ETA_V,codes catégories télé-service par établissement,Aucune variable liée,358
+PX_FCT_V,fonctionnalités,Aucune variable liée,344
+PX_FSR_V,services associées aux fonctionnalités,Aucune variable liée,213
+PX_SER_V,services pour restitution,Aucune variable liée,38
+PX_SPE_V,codes catégories télé-service par spécialité,Aucune variable liée,74
+PX_TRC_V,tranches de connexions,Aucune variable liée,9
+R9_PAR_V,Paramétrage automatisation ARA,Aucune variable liée,91
+R9_SPE_V,regroupements Spécialité pour automatisation ARA,Aucune variable liée,54
+RM_CND_V,top conditionnement,Aucune variable liée,3
+RM_CNV_V,top répertoire conventionnel,Aucune variable liée,6
+RM_EXP_V,top exception,Aucune variable liée,3
+RM_HTA_V,top HTA ( hypertension artérielle ),Aucune variable liée,3
+RM_PAR_V,top des principes actifs retenus,Aucune variable liée,3
+RM_RFM_V,top convention (Suivi de la réforme),Aucune variable liée,6
+RM_RPM_V,top répertoire médicament,Aucune variable liée,4
+RM_SRT_V,top sortie hospitalière,Aucune variable liée,3
+RM_TAN_V,types d'anomalies des flux,Aucune variable liée,16
+TAB_VAL_DEF,table de description des tables de valeur et de compatibilite ( cette table),Aucune variable liée,488
+TOP_TIER_ACC,Titre manquant,Aucune variable liée,3
+XC_ATE_V,Activité associée à l'acte médical,Aucune variable liée,5
+XC_PHA_V,Phase de traitement de l'acte médical,Aucune variable liée,4
+ZO_CAI_V,Caisse  ( projet RESID-EHPAD ),Aucune variable liée,1868
+ZO_MMV_V,Motif de mouvement  RESID-EHPAD,Aucune variable liée,7
+ZO_PRE_V,Prestation  RESID-EHPAD,Aucune variable liée,14
+ZO_TMV_V,Type de mouvement  RESID-EHPAD,Aucune variable liée,4
+openbio_ACTE,L_ACTE,Aucune variable liée,952
+openbio_AGE_BEN,Tranches d'âge du bénéficiaire (OPEN_BIO),Aucune variable liée,5
+openbio_GRP,L_GRP,Aucune variable liée,30
+openlpp_AGE_BEN,Tranches d'âge du bénéficiaire (OPEN_LPP),Aucune variable liée,5
+openlpp_CODE_LPP,L_CODE_LPP,Aucune variable liée,3004
+openlpp_TITRE,L_TITRE,Aucune variable liée,6
+openlpp_sc1,L_SC1,Aucune variable liée,24
+openlpp_sc2,L_SC2,Aucune variable liée,91
+openmedic_AGE_BEN,Tranches d'âge du bénéficiaire (OPEN_MEDIC),Aucune variable liée,4
+openmedic_ATC1,Libellé ATC1,Aucune variable liée,15
+openmedic_ATC2,Libellé ATC2,Aucune variable liée,88
+openmedic_ATC3,Libellé ATC3,Aucune variable liée,250
+openmedic_ATC4,Libellé ATC4,Aucune variable liée,844
+openmedic_ATC5,Libellé ATC5,Aucune variable liée,1394
+openmedic_GEN_NUM,Libellé Numéro Groupe Générique,Aucune variable liée,951
+openmedic_TOP_GEN,Libellé Top Générique,Aucune variable liée,5
