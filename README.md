@@ -76,7 +76,7 @@ To fully understand the ingestion process, we need to understand some basic term
 - Entity type: https://docs.open-metadata.org/v1.4.x/main-concepts/metadata-standard/schemas/entity/type
 
 
-### 2.1 A real word example
+### 3.1 A real word example
 
 Imagine we have a `database server` called `server1` which contains `four databases`, in the database `db1`, we 
 have a schema called `schema1`, in `schema1`, we have four tables `tab1,tab2,tab3,tab4`. 
@@ -84,3 +84,6 @@ have a schema called `schema1`, in `schema1`, we have four tables `tab1,tab2,tab
 To create this, we need to create an entity `server1` of type `DatabaseService` which contains an entity `db1` of 
 type `Database`, which contains an entity `schema1` of type `Schema`, which contains four entity `tab1,tab2,tab3,tab4`
 of type `Table`.
+
+
+
