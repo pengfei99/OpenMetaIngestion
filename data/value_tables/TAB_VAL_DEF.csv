@@ -1,0 +1,489 @@
+NOM;NBL;VERSION;LIBELLE
+IR_GHS_TA9_V;2346;124.61;Tarifs GHS 2009
+IR_GHS_V;9607;125.56;Groupe homogène de séjour  GHS   code GHS_GRP_TYP = S  ( MAJ annuelle )
+IR_GHT_V;64;0212;GHS   code GHS_GRP_TYP = T ( table générée depuis la table IR_GHS_V )
+IR_GLF_V;29;123.85;Grands Postes LFSS
+IR_GRG_V;23;125.11;Grand Régime
+IR_GRP_V;9;123.01;Membre d'un groupe ou d'une association
+IR_HAD_V;4;124.66;HAD en médico-social
+IR_ICL_V;8;125.17;Indicateur de Contrôle
+IR_INT_V;5;125.17;Type de version interface tiers
+IR_JDC_V;13;0212;Justification des droits AMC
+IR_JDO_V;9;0212;Justification des droits AMO
+IR_LFS_V;67;123.85;Postes LFSS
+IR_LHS_V;4;123.87;Loi Hospitalière/Sociale
+IR_LIE_V;5;125.18;lieu d'exécution ( de l'acte médical )
+IR_LLD_V;55;123.85;Regroupement LFSS / Labo / Dentistes / Med / Para
+IR_LOH_V;3;123.01;Regroupement de Postes LFSS / ONDAM / Hors ONDAM
+IR_LPP_V;4923;124.71;Liste des Produits et des Prestations
+IR_LSM_V;135;125.12;Table des codes ELSM
+IR_LVE_V;4;123.01;Regroupement LFSS / Soins Ville / Etab / Autre
+IR_MAJ_V;3;125.07;Type de Majoration
+IR_MCO_V;9;0208;table des domaines d'activité
+IR_MDP_V;7;125.42;Mode de prescription
+IR_MDT_V;25;124.56;Mode de Traitement
+IR_MED_V;2109;124.21;Informations Médicales
+IR_MEP_V;66;124.69;Mode d'exercice Particulier (Omnipraticiens)
+IR_MFT_V;37;124.85;Mode de Fixation de Tarif
+IR_MIN_V;6;125.08;type de minoration
+IR_MIR_D;29507;124.35;Table des Comptes Comptables MIRCOSS (Dénormalisée)
+IR_MIR_V;29507;124.35;Comptes Comptables MIRCOSS
+IR_MOD_V;11;123.01;Mode de Règlement
+IR_MOI_V;1838;125.22;Période Civile Mensuelle
+IR_MPA_V;3;124.17;Participation de l'assuré HPDS
+IR_MPS_V;33;0208;Table des modificateurs (parcours de soin)
+IR_MP2_V;37;125.44;Table des modificateurs parcours de soins sur 2 caractères
+IR_MTF_V;3;125.08;motif de fin de contrat avec le médecin traitant
+IR_MTM_V;7;125.47;Modulation du Ticket Modérateur
+IR_MTO_V;3;0208;indicateur tarification METEORe dans le cadre du projet Météor
+IR_MTR_V;36;125.18;Motif du Transport
+IR_NAL_V;5;124.02;Nombre d'ALD dont les patients sont victimes
+IR_NAT_ACE_C;2249;0215;Compatibilite Nature de Prestation /  Nature d'Activite Executant
+IR_NAT_ACP_C;920;0215;Compatibilite Nature de Prestation _  Nature d'Activite Prescripteur
+IR_NAT_ASU_C;3613;0215;Compatibilite Nature de Prestation _ Nature d'Assurance
+IR_NAT_BEQ_C;4950;0215;Compatibilite Nature de Prestation _ Qualite de Beneficiaire
+IR_NAT_CAE_C;2199;0215;Compatibilite Nature de Prestation _ Categorie PS Executant
+IR_NAT_CAP_C;1125;0215;Compatibilite Nature de Prestation _ Categorie PS Prescripteur
+IR_NAT_COE_C;602;0214;Compatibilite Nature de Prestation _ Coefficient Maxi
+IR_NAT_CPA_C;1661;0215;Compatibilite Nature de Prestation _ Complement d'Acte
+IR_NAT_DDP_C;980;0210;Compatibilité Nature de Prestation _ DDP
+IR_NAT_DEP_C;3587;0215;Compatibilite Nature de Prestation _ Qualificatif Depense
+IR_NAT_DTR_C;215;125.57;Compatibilité Nature de Prestation _ Code Affiné Transport
+IR_NAT_FRF_C;162;123.86;Compatibilité Nature de Prestation _ Forfait transport _ Forfait Kilométrique
+IR_NAT_MDT_C;379;0214;Compatibilité Nature de Prestation _ Mode de Traitement
+IR_NAT_PPU_C;2630;0215;Compatibilite Nature de Prestation _ Code Prive Public
+IR_NAT_QTE_C;915;0215;Compatibilite Nature de Prestation _ Quantite Maxi
+IR_NAT_SAN_C;945;125.25;Compatibilité Nature de Prestation _ Centre de Santé
+IR_NAT_SPE_C;15351;0215;Compatibilite Nature de Prestation _ Specialite PS Executant
+IR_NAT_SPP_C;16917;0214;Compatibilite Nature de Prestation _ Specialite PS Prescripteur
+IR_NAT_TAU_C;730;0215;Compatibilite Nature de Prestation _ Taux de Prise en charge
+IR_NAT_TYF_C;48;0213;Compatibilité Nature de Prestation _ Type de forfait
+IR_NAT_V;1509;0215;Nature Prestation
+IR_NAT_W;4950;125.30;Table de travail / NE PAS MODIFIER
+IR_NDT_V;134;125.04;Nature de la dette
+IR_NEM_T;36;124.63;Numéros d'émetteurs restitution
+IR_NEM_V;150;124.63;Numéros d'émetteurs
+IR_NEX_V;4;123.01;Nature d'Exercice d'un PS
+IR_NFS_V;10;124.78;Nature fin de séjour
+IR_NGC_V;513;124.51;Numéro de gestion Comptable
+IR_NIR_V;57;0213;Codes indicateurs NIR
+IR_NMD_V;4;123.40;Nomenclature Médicale
+IR_NPS_V;4;123.89;Notion de parcours de soin
+IR_OBS_V;7;123.01;Code Observation
+IR_OPL_V;19;125.17;Nature d'opération de liquidation
+IR_OPR_V;25;124.53;Nature des Opérations de Récupération
+IR_ORG_V;56472;125.12;organismes
+IR_ORI_V;5;125.08;origine de la saisie ou de la mise à jour de la déclaration de médecin traitant
+IR_PAF_V;16;125.17;Participation forfaitaire
+IR_PAY_V;2;123.80;Pays
+IR_PCT_V;128;123.60;Périodes comptables
+IR_PEL_V;3;124.58;Indicateur Prescription en ligne
+IR_PEN_V;5;125.24;type de pension
+IR_PNE_V;5;123.83;Prestation en Nature / Espèce et Autre
+IR_POS_V;39559;124.51;Code Postal
+IR_PPU_V;3;124.46;Secteur d'Activité (Prive / Public)
+IR_PRF_V;9;124.92;Type de Prestation Fournie (Dispositifs Médicaux)
+IR_PRO_V;53;125.10;Contexte Professionnel de Santé
+IR_QBA_V;16;125.31;Qualité de Bénéficiaire Affinée
+IR_QPE_V;13;124.06;Table des qualificatifs de parcours de soin (entrée)
+IR_QPS_V;26;125.04;Table des qualificatifs de parcours de soin (sortie)
+IR_RAN_V;6;0208;Regroupement type anomalie
+IR_REF_V;4;125.14;Medecin référent
+IR_REG_V;36;124.99;Région ( anciens et nouveaux libellés )
+IR_REK_V;3;124.57;Indicateurs Référentiel EP Kiné
+IR_REN_V;6;125.20;type de Renouvellement
+IR_RGM_ASU_C;9118;0210;Compatibilité Régime d'Affiliation _ Nature d'Assurance
+IR_RGM_BEQ_C;4822;0208;Compatibilité Régime d'Affiliation _ Qualité de Bénéficiaire
+IR_RGM_V;1281;0210;Petit Régime d'Affiliation
+IR_RGP_V;5;0208;type de regroupement de séjour dans le cadre du projet T2A SSR
+IR_RGT_V;64;125.36;Regroupement de prestations
+IR_RGU_V;5;125.17;Sens de la régularisation
+IR_RNM_V;14;125.56;indicateur du RNIAM
+IR_RP1_V;136;125.23;Regroupement HPHE Détaillé Honoraires Spécialistes et Auxiliaires
+IR_RP2_V;28;124.02;Regroupement HPHE Détaillé Honoraires Auxiliaires
+IR_RP3_V;8;124.02;Regroupement Hono Presc Hospit Espece (HPHE)
+IR_RRG_V;3;123.80;Regroupement de régimes
+IR_RSM_V;26;125.12;Table des codes ERSM
+IR_RVL_V;9;125.18;Nature de la revalorisation (IJ)
+IR_SAF_V;554;0207;Type de Saisie Affinée ou Support d'Entrée
+IR_SAI_V;10;125.07;Type de Saisie ou Système a l'Origine du Mouvement
+IR_SAN_V;15;125.23;Centre de Santé
+IR_SAT_V;11;123.01;Motif de suppression de la rente AT
+IR_SEQ_V;100;124.32;Séquence de renouvellement
+IR_SEX_V;4;123.01;Sexe
+IR_SFJ_V;16;0212;Type de supplément forfait
+IR_SGN_V;4;123.86;Signe du Mouvement
+IR_SJE_V;62;125.24;Statut juridique d'établissement
+IR_SJP_V;10;124.77;Statut Juridique ou Mode d'exercice d'un PS
+IR_SLG_V;9;123.94;Regroupement SLM
+IR_SLM_V;65;124.92;Section Locale Mutualiste (SLM)
+IR_SL2_V;4;123.94;RGT Mutuelles affiliées
+IR_SNS_V;3;123.01;Sens du Mouvement
+IR_SOP_V;3;123.01;Sortie / Présence
+IR_SPA_D;85;125.25;regroupement de spécialités médicales et nature d'activité
+IR_SPD_V;36;123.88;Spécialité de Discipline
+IR_SPE_D;57;125.25;Spécialités médicales (Dénormalisée)
+IR_SPE_V;57;125.25;Spécialités médicales
+IR_SPS_V;5;123.01;Regroupement de Spécialité pour les Statistiques Mensuelles
+IR_SPT_V;4;123.01;Regroupement de Spécialité pour TANDEM
+IR_SRG_V;6;123.60;Libellés regroupés SJP
+IR_STA_V;15;123.91;Regroupement de Prestation pour les Statistiques Mensuelles
+IR_STJ_MFT_C;1989;125.23;Compatibilité MFT _ STJ
+IR_SUB_V;7;124.92;Motif de Substitution Médicament
+IR_SVI_V;11;124.18;Indicateur de suivi du n° RPPS
+IR_TAA_V;5;124.17;Impact T2A publique sur le référentiel tables
+IR_TAE_V;15;123.91;Type d'activité établissement
+IR_TAN_V;434;0209;Type d'Anomalie / Signalement / Rejet
+IR_TAU_V;27;123.89;Taux de Prise en Charge
+IR_TCM_V;4;125.36;Type de procédure paiement C2S
+IR_TCP_V;5;124.32;Type de CIP délivré
+IR_TCR_V;8;125.17;Top certification du lot
+IR_TCU_V;4;0208;Type de codage UCD
+IR_TDM_V;23;123.88;Regroupement de Prestation pour TANDEM
+IR_TDU_V;3;125.18;Top déconditionnement
+IR_TEK_REK_C;2;124.57;Compatibilité Top Entente Préalable Kiné Indicateur Référentiel Kiné
+IR_TEK_V;4;124.44;Top Entente Préalable Kiné
+IR_TMT_V;6;124.05;Origine de la prescription
+IR_TOC_V;6;125.17;Top option de coordination
+IR_TOP_V;4;124.05;Indicateur tarif opposable
+IR_TOR_V;6;124.63;Types d'organismes
+IR_TPR_V;6;124.58;Types de prestation Kiné
+IR_TRG_V;3;123.40;Libellés regroupés TAU
+IR_TTX_V;6;123.94;Type de Taux
+IR_TUM_V;27;124.16;codes de regroupement de tumeurs pour les codes cim10 relevant de l'ald numéro 30
+IR_TYA_V;4;124.63;Type d'acte
+IR_TYE_V;11;123.40;Type d'établissement
+IR_TYO_V;5;124.02;Type d'Organisme
+IR_TYR_V;13;125.36;Type de Remboursement
+IR_TYT_V;25;125.15;Type de Transmetteur
+IR_TYV_V;9;123.85;Type de Ventilation
+IR_UCD_V;1436;124.71;Unité Commune de Dispensation
+IR_URC_V;35;124.99;URCAM / ARH ( région )
+IR_VIT_V;19;125.16;indicateur de forçage Sesam Vitale
+IR_ZTP_V;25;125.18;Zone Tarif PS
+MS_ACT_V;702;123.92;code Acte
+MS_AFP_V;4;123.92;Controle fusion Ano Hospit et Fichier PMSI
+MS_AHP_V;6;123.92;Controle fusion Ano Hospit et Hospit PMSI
+MS_ASN_V;7;124.05;Nature d'assurance PMSI
+MS_ATV_V;7;124.05;Activité de l'acte
+MS_AUT_V;18;124.05;Type d'UM autorisé
+MS_CAD_V;4;123.92;Controle du Numero Administratif
+MS_CDM_V;12687;123.92;Nomenclature CDAM (Actes Hospitaliers)
+MS_CIM_V;19272;124.96;Codes Diagnostics (CIM10) pour le PMSI
+MS_CIV_V;5;124.05;Code Civilité
+MS_CSS_V;7;123.92;Controle du Numero de Securite Sociale
+MS_CSX_V;5;123.92;Controle du Sexe
+MS_DST_V;8;123.92;Destination
+MS_DTN_V;7;123.92;Controle de la date de naissance
+MS_ENR_V;9;124.05;Type d'enregistrement
+MS_ENT_ENR_C;7;124.05;Compatibilité mode d Entrée du champ - type d Enregistrement
+MS_ENT_PRV_C;16;123.92;Compatibilité mode d Entree du champ -  Provenance
+MS_ENT_V;6;123.92;Mode d'entree du champ PMSI_MCO
+MS_FFT_V;21;124.05;Forfait Dialyse
+MS_FMT_V;4;124.05;Type de format RSF (Ancien / Nouveau)
+MS_GM7_V;651;123.92;Groupe Homogene de Malade (GHM) V7
+MS_GM9_V;838;124.15;Groupe Homogene de Malade (GHM) V9
+MS_JTM_V;13;123.92;Justification de l'exonération du TM
+MS_LDD_V;5;124.05;Passage dans un lit dédié aux soins Palliatifs
+MS_NFS_V;8;124.05;Nature d'interruption ou de fin de séjour
+MS_OPE_V;7;124.05;Nature d'opération
+MS_PDP_V;103;124.05;Position du Diagnostic Principal
+MS_PEC_V;7;124.05;Code de prise en charge
+MS_PHA_V;6;124.05;Phase de l'acte CCAM
+MS_PPO_V;5;124.05;Type de Prestation de Prélèvement d'Organes
+MS_PRV_V;9;123.92;Provenance
+MS_REC_V;17;123.92;Nature opération de récupération
+MS_RES_V;6088;124.10;Code géographique de résidence
+MS_RT7_V;86;123.92;Resultat du groupage (version de groupage_CMD_GHM_Code retour) RT7
+MS_RT9_V;102;124.11;Resultat du groupage (version de groupage_CMD_GHM_Code retour) RT9
+MS_SEJ_V;4;123.92;Type de sejour
+MS_SOR_DST_C;16;123.92;Compatibilité mode de Sortie du champ - Destination
+MS_SOR_V;7;123.92;Mode de Sortie du Champ PMSI_MCO
+MS_TAA_V;12;123.92;Table des Types d'activités autorisées
+MS_TAL_V;4;124.05;Type d'autorisation de lit dédié fréquenté par le patient
+MS_TCH_V;4;124.05;Top ( oui / non )
+MS_TOP_V;4;124.05;Top Numérique ( oui / non )
+MS_VLP_V;6;124.05;Code Valorisation partielle
+ON_CLE_W;315420;124.43;Clé de répartition  pour  remboursement
+ON_SDV_W;263;124.26;invite BO soins de ville Fusion
+PX_APP_V;13;124.52;applications
+PX_CAT_V;18;124.50;catégories télé-service
+PX_DRS_V;133;124.49;table d'association entre les Caisses et les DRSM
+PX_ETA_V;358;124.51;codes catégories télé-service par établissement
+PX_FCT_V;344;125.17;fonctionnalités
+PX_FSR_V;213;124.70;services associées aux fonctionnalités
+PX_SER_V;38;124.70;services pour restitution
+PX_SPE_V;74;124.48;codes catégories télé-service par spécialité
+PX_TRC_V;9;124.48;tranches de connexions
+RM_CND_V;3;124.40;top conditionnement
+RM_CNV_V;6;124.40;top répertoire conventionnel
+RM_EXP_V;3;124.40;top exception
+RM_HTA_V;3;124.40;top HTA ( hypertension artérielle )
+RM_PAR_V;3;124.40;top des principes actifs retenus
+RM_RFM_V;6;124.40;top convention (Suivi de la réforme)
+RM_RPM_V;4;124.46;top répertoire médicament
+RM_SRT_V;3;124.40;top sortie hospitalière
+RM_TAN_V;16;124.40;types d'anomalies des flux
+R9_PAR_V;91;124.22;Paramétrage automatisation ARA
+R9_SPE_V;54;124.13;regroupements Spécialité pour automatisation ARA
+TAB_VAL_DEF;488;0215;table de description des tables de valeur et de compatibilite ( cette table)
+ZO_CAI_V;1868;124.64;Caisse  ( projet RESID-EHPAD )
+ZO_MMV_V;7;124.64;Motif de mouvement  RESID-EHPAD
+ZO_PRE_V;14;124.64;Prestation  RESID-EHPAD
+ZO_TMV_V;4;124.64;Type de mouvement  RESID-EHPAD
+AT_AAT_V;24;124.47;Nature de l'arrêt de travail
+AT_ACC_V;4;124.50;Accord personne accompagnante
+AT_AGE_COU_C;901;125.50;actes de gestion et types de courrier associés
+AT_AGE_V;1109;125.50;actes de gestion
+AT_ALI_V;5;124.09;code Alinéa : regroupement des codes natures AT
+AT_AMA_V;195;124.72;Agent matériel de la déviation 1 & 2
+AT_ANC_V;7;123.88;Ancienneté de l accidenté lors de l  AT
+AT_APP_V;9;124.47;nature de l'appareillage
+AT_ASP_V;42;124.71;Activité spécifique
+AT_ATP_V;45;124.58;Profession de la victime d'un AT (version 212 SGE)
+AT_ATY_V;4;124.47;TOP employeur atypique
+AT_AVI_V;6;124.47;nature décision avis
+AT_BAT_V;6;123.88;code Batellerie
+AT_BDO_V;4;124.47;TOP création BDO
+AT_BEN_V;4;124.47;TOP AT bénin
+AT_BUR_V;4;123.88;code Bureau
+AT_BUT_V;12;123.88;Butoirs de Tarification
+AT_CAR_V;23;0204;CARSAT  ( version 11 Orphée)
+AT_CAT_V;19;123.88;Catégorie de Tarification
+AT_CAU_V;6690;124.23;MP - agent CAUsal
+AT_CHS_V;5;123.88;code présence d un CHSCT
+AT_CIJ_V;10;124.01;Classes du nombre de jours d IJ
+AT_CJU_V;9;125.16;Contestation juridique ( Eurydice )
+AT_CMI_V;5;124.47;TOP lien CM
+AT_CNT_V;5;124.72;Contexte des lésions
+AT_CON_V;12;125.24;type de contestation (juridiction). ( Orphée  V11)
+AT_COU_V;805;125.50;types de courrier associé
+AT_CPD_V;169;123.88;MP - Catégorie De Produit
+AT_CRE_V;4;125.34;Code de reconnaissance MP
+AT_CTN_V;12;123.88;code CTN
+AT_CTS_V;6;125.09;nature de la décision de contestation
+AT_DAT_V;5;124.47;IDAT (O/N)  TOP DAT
+AT_DCD_V;5;123.88;indicateur de Décès consécutif au sinistre
+AT_DEC_V;5;124.47;décision recours contre tiers ( code alpha ) ( version 11 Orphée)
+AT_DEX_V;8;123.88;code Durée d Exposition
+AT_DMF_V;12;124.59;nature de la Décision Médicale Finale
+AT_DMT_V;348;125.09;Discipline Médico-Tarifaire
+AT_DOS_V;10;124.51;état du dossier ( code alpha )  ( version 11 Orphée)
+AT_DPS_V;4;124.44;Détail de la pièce saisie
+AT_DPT_V;112;124.47;département  ( version 11 Orphée)
+AT_DTA_V;4;124.47;TOP DAT tardive (O/N)
+AT_DVI_V;53;124.71;Déviation
+AT_EDO_V;4;124.71;Etat du Dossier  ( code numérique ) ( Eurydice )
+AT_ELD_V;339;123.92;Elément matériel  Détaillé   ou précis
+AT_ELM_V;44;123.88;Elément Matériel principal
+AT_EMP_V;4;124.50;Gestion par employeur
+AT_EPI_V;7;123.88;nature de l Episode
+AT_FAT_V;28;124.96;Famille des AT
+AT_FJU_V;295;124.96;Formes juridiques
+AT_HIS_V;4;124.50;Reprise d'historique (Import)
+AT_HOS_V;4;124.50;TOP Hospitalisation
+AT_HRE_V;26;123.88;Heure de l accident
+AT_IPR_V;14;123.89;Regroupements des taux d IPP - DM ATMP
+AT_IRT_V;6;123.92;Indicateur Rente / indemnité en capital
+AT_ITI_V;3;124.44;Indicateur ITI (Indemnité Temporaire d'Inaptitude)
+AT_IVA_V;4;123.88;Indicateur de Validation ( AT ou section )
+AT_JIJ_V;4002;124.07;nb de Jours IJ avec tranche
+AT_JOU_V;9;123.89;Jours  - DM ATMP
+AT_LAT_V;9;124.71;Code lieu
+AT_LES_V;38;124.47;nature de la lésion ( version 11 Orphée) en CHAR(10)
+AT_LIC_V;4;124.47;Reclassement ou licenciement
+AT_LIE_V;7;123.88;Lieu de l accident
+AT_LSN_V;38;124.58;Nature des lésions (version 212 SGE)  en CHAR(3)
+AT_MAM_V;9;124.96;Code motif alineas MP
+AT_MDL_V;46;124.71;Contact ou modalité de la blessure
+AT_MET_V;910;124.75;profession en AT et MP ( version 11 Orphée) en CHAR(10)
+AT_MLP_V;1206;125.50;numéro de MP  et syndrome
+AT_MLT_V;180;125.53;numéro de MP
+AT_MOD_V;10;123.88;Mode de tarification de la section
+AT_MOI_V;14;123.89;Mois - DM ATMP
+AT_MOT_V;22;124.51;motif de la contestation
+AT_MPP_V;438;124.58;Profession de la victime d'une MP (version 212 SGE)
+AT_MRC_V;3;124.44;Mode de récupération
+AT_MTP_V;6;124.75;Majoration Tierce Personne
+AT_MTY_V;5;124.47;TOP codification profession (Ancienne ou nouvelle).
+AT_NAB_V;13;123.89;Nature d Assuré Bénéficiaire
+AT_NAF_V;1446;124.11;code NAF
+AT_NAT_V;5;124.58;code Nationalité
+AT_NCT_V;6;124.45;Code nature élément contesté
+AT_NEC_V;7;124.96;code élément contesté
+AT_NLS_V;25;123.88;Nature des Lésions  en CHAR(2)  ( version 1 )
+AT_NNI_V;3;124.47;TOP NIR ou NNP de la victime ( code alpha ) ( version 11 Orphée)
+AT_NNP_V;8;124.47;TOP NIR ou NNP de la victime ( code numérique ) ( version 11 Orphée)
+AT_NOT_V;4;124.47;TOP notification
+AT_NOU_V;3;124.47;TOP codification (ancienne ou nouvelle)
+AT_NRQ_V;4;124.44;Nature requérant
+AT_NSE_V;10;123.92;Nature du cotisant ( section ou autre )
+AT_NTU_V;9;123.88;code Nature de l accident
+AT_OCT_V;11;124.47;origine de la contestation
+AT_ODF_V;6;124.47;origine de la  décision médicale finale
+AT_OMS_V;10606;125.50;code pathologie  ( pour MP OMS  ) codes CIM appli AT
+AT_ORC_V;17;125.22;code Origine de Crédit
+AT_PAC_V;4;124.47;TOP personne accompagnante
+AT_PAI_V;7;123.89;groupe de Paiement rente AT (périodicité)
+AT_PAT_V;32;124.23;code Profession de la victime en AT ou trajet  ( Version 1)
+AT_PAY_V;290;124.58;Code Pays
+AT_PIE_V;161;125.34;Type de pièce , nature des certificats médicaux
+AT_PMP_V;394;123.88;code Profession de la victime en MP   ( Version 1)
+AT_PTR_V;6;124.71;Poste de travail
+AT_QUA_V;9;123.88;Qualification professionnelle
+AT_RCT_V;5;124.47;états du recours contre tiers
+AT_REC_V;4;124.47;TOP envoi courrier (Lettre simple ou RAR)
+AT_REP_V;4;124.47;Suite repos AS
+AT_REQ_V;6;124.96;nature requérant
+AT_RNI_V;3;123.88;Rente Non Imputable
+AT_RSQ_V;1861;125.56;numéro de Risque
+AT_RTI_V;5;123.88;code Recours juridique ( Recours contre Tiers ) ( code numérique en CHAR)
+AT_SAN_V;4;124.47;TOP Sanction (O/N)
+AT_SDO_V;8;123.89;Statut du Dossier
+AT_SGE_V;37;124.58;Siège de la lésion (version 212 SGE) en CHAR(2)
+AT_SIE_V;37;124.51;siège de la lésion  ( version 11 Orphée) en CHAR(10)
+AT_SIR_V;5;124.47;top SIRET
+AT_SLP_V;11;123.88;Siège Principal des Lésions
+AT_SLS_V;43;123.88;Siège Secondaire des lésions
+AT_SPO_V;8;124.58;Statut professionnel
+AT_STA_V;8;124.51;Statut de l épisode
+AT_TAN_V;4;124.96;Type d'Anomalie / Signalement / Rejet ( en AT )
+AT_TAR_V;5;124.47;mode de tarification  ( version 11 Orphée)
+AT_TAT_V;11;123.88;Tranche d Age
+AT_TAU_V;103;123.89;Taux - DM ATMP
+AT_TDO_V;7;123.89;Qualité de bénéficiaire
+AT_TEF_V;13;123.91;Tranche d Effectif
+AT_TEV_V;35;124.71;Type d  Evènement ( dont Motif de clôture de la rente du bénéficiaire (rachat, décès) )
+AT_THE_V;15;124.47;orientation thérapeutique accordée.
+AT_TLI_V;65;124.71;Type de lieu
+AT_TPR_V;5;124.44;Type de prestation
+AT_TRA_V;9;124.47;mode de transport
+AT_TRE_V;6;123.89;Type de Rente
+AT_TRI_V;4;124.44;Type de rattachement individu
+AT_TRQ_V;4;124.44;Type de risque
+AT_TYC_V;10;125.22;Type de Crédit
+AT_URG_V;4;124.50;Notion d'urgence
+AT_URS_V;146;124.75;code URSSAF
+AT_VIL_V;106;124.47;ville de la cure thermale.
+AT_VLI_V;13;123.88;Validité de la DAT
+AT_VSE_V;8;123.88;Validité de la Section
+AT_1IJ_V;3;123.94;Indicateur premier règlement de l'AT
+BC_BSE_V;3;0208;types de bases émises par le partenaire dans le cadre du projet HDH
+BC_TRT_V;5;0209;types de traitement dans le cadre du projet HDH
+DR_BSE_V;3;0208;Bases sur lesquelles porte l'exercice des droits  dans le cadre du projet HDH
+DR_TYP_V;4;0208;Types de droits à exercer dans le cadre du projet HDH
+DW_DTC_V;52;125.03;Source de détection ( projet GRECOT )
+DW_PRO_V;3;124.65;Protocole            ( projet GRECOT )
+DW_RSQ_V;13;124.65;nature de risque     ( projet GRECOT )
+DW_SIN_C;1537;124.82;nature de sinistre ( projet GRECOT )
+DW_STA_V;65;124.76;état de statut      ( projet GRECOT )
+FC_BSE_V;3056;125.03;FDC Table de conversion des organismes de base
+FC_CAI_V;155;125.05;FDC Table de conversion des Caisses  ( table organisme )
+FC_ORG_V;56472;125.03;FDC Table de conversion des organismes fins
+FC_TCL_V;3;124.24;FDC Table des Méthodes de Traitement
+FC_VEX_V;3741;124.25;FDC Table d'exclusion des Vues
+GA_CEN_V;4;124.29;Centre de numérisation et de vidéocodage
+GA_EDI_V;3;124.29;Code origine édition
+GA_GBE_V;10;124.29;Genre du bénéficiaire
+GA_INJ_V;3;124.29;Numéro de coupon d'injection
+GA_TNI_V;3;124.29;Top NIR fictif
+GA_UVA_V;7;124.29;Code usine vaccin
+IR_ACC_V;4;125.14;Indication accident
+IR_ACH_V;4;123.86;Type d'acheminement des flux
+IR_ACO_V;138;123.91;Codes ACOSS
+IR_ACT_V;31;0212;Nature d'Activité (Non Médecins)
+IR_AFT_V;4;123.87;Type d'Affinage pour Regroupements TANDEM
+IR_AGE_V;127;124.63;Age
+IR_ALD_V;34;124.45;Table des codes ALD030
+IR_AMA_V;155;123.86;Tranche d'âge
+IR_ANC_V;10;123.86;Type de remboursement
+IR_ANN_V;155;125.22;Table des années
+IR_APS_V;23;123.92;Tranche d'Age PS5
+IR_ARC_V;3;124.08;Options Archivage
+IR_ASN_V;15;123.01;Tranche d'Age SNIREP
+IR_ASS_V;6;123.94;Table ASSONP
+IR_ASU_V;12;125.02;Nature d'Assurance
+IR_ATT_V;5;124.92;Nature d'Accident du Travail
+IR_BAC_V;3;124.85;Top bénéficiaire ACS
+IR_BCM_V;4;125.36;Top bénéficiaire CMU C
+IR_BEN_V;6;125.39;Contexte bénéficiaire
+IR_BEQ_V;6;125.53;Qualité de Bénéficiaire
+IR_BER_V;10;124.63;Rang Gémellaire Bénéficiaire
+IR_BRA_V;3;123.01;Branche Comptable
+IR_BRG_V;4;123.85;Libellés regroupés BEQ
+IR_CAE_DEP_C;107;125.53;Compatibilité Catégorie PS Exécutant / Qualificatif Dépense
+IR_CAI_V;2755;125.13;Caisse - Organisme de base
+IR_CAT_V;11;124.78;Catégorie Professionnel de Santé
+IR_CBI_V;45;125.17;Catégorie de Bénéficiaire (Invalidité et Rentes AT)
+IR_CCA_V;31;0207;Codes compléments associés
+IR_CCI_V;2059;125.09;Table des catégories de codes CIM
+IR_CEE_V;135;125.12;Table CTI ERSM ELSM
+IR_CER_V;7;125.12;niveau de certification
+IR_CET_D;142;124.85;Catégorie d'établissement (Dénormalisée)
+IR_CET_V;142;125.18;Catégorie d'établissement
+IR_CE1_V;48;124.85;Regroupement 1 des Catégories d'établissement
+IR_CE2_V;11;123.01;Regroupement 2 des Catégories d'établissement
+IR_CE3_V;3;123.01;Regroupement 3 des Catégories d'établissement
+IR_CIA_V;41;123.01;Catégorie Affinée de Pension d'Invalidité
+IR_CII_V;13;123.01;Centre de Traitement Informatique Informationnel (CTII)
+IR_CIM_V;18334;125.09;Tables de codes CIM10 ( MAJ à contrôler )
+IR_CIP_V;9635;123.92;Table des classes thérapeutiques ATC par code CIP
+IR_CIV_V;8;123.01;Catégorie de Pension d'Invalidité
+IR_CLC_V;58;125.17;Code Libellé de Contrôle
+IR_CMD_V;31;0213;Regroupement GHS
+IR_CMF_V;5;123.86;Regroupement Postes Comptables CMU / Participation / Forfait
+IR_CMH_V;16;123.01;Regroupement de Postes Comptables CMU / Hono / Optiq / Soin / Frais
+IR_CMU_V;19;123.60;Postes Comptables CMU
+IR_CNV_V;6;124.88;Conventions Médicales
+IR_COC_V;10;125.36;Catégorie d'Organisme Complémentaire
+IR_COP_V;1685;124.35;Comptes COPERNIC
+IR_CPA_V;5;123.86;Complément d'Acte
+IR_CPM_V;4;123.86;Regroupement complément d'acte/majorations
+IR_CRA_V;22;124.99;Caisse Régionale Assurance Maladie (CRAM) ( table organisme )
+IR_CSS_V;3;125.36;Code C2S
+IR_CTA_V;100;125.36;type de contrat complémentaire
+IR_CTI_V;25;123.91;Centre de Traitement Informatique de Production (CTI)
+IR_CTL_V;6;125.17;Type de contrôle
+IR_C2S_V;4;125.36;Type C2S
+IR_DCT_V;3;123.01;Décès / Transfert
+IR_DDP_MDT_C;1575;0207;Compatibilité DDP / MDT
+IR_DDP_V;454;0207;Discipline de prestation établissement
+IR_DEM_V;3;124.08;Options Démographie
+IR_DEP_V;20;125.36;Qualificatif Dépense de Prestation
+IR_DEV_V;3;123.01;Devise
+IR_DIP_V;4;124.72;Dispositif de Prévention
+IR_DIS_V;4;125.12;utilisation du distancier
+IR_DPT_DGP_V;182;125.01;Département (2 caractères), Région, nouveau département
+IR_DPT_V;117;124.99;Département ( avec code région )
+IR_DRA_V;26;0212;Nature de destinataire du règlement affiné
+IR_DRG_V;11;0210;Nature de destinataire du règlement
+IR_DSP_V;4;125.36;Droits Spécifiques
+IR_DTE_V;55883;125.22;Période civile journalière
+IR_DTR_V;71;125.26;Codes Détail Transport
+IR_EIN_V;23;123.01;Etat de pension d'invalidité
+IR_EMF_V;147;125.15;Nomenclature des émetteurs fins
+IR_ENT_V;10;123.01;Mode d'entrée
+IR_ENV_V;11;125.39;Type d'enveloppe
+IR_EPS_V;14;124.78;Code nature d'exercice du PS
+IR_ERG_V;9;123.40;Libellés regroupés EXO
+IR_ETM_V;19;124.93;Nature d'exonération du Ticket Modérateur
+IR_EXO_V;24;124.70;Motif d'exonération du Ticket Modérateur
+IR_EXR_V;103;125.21;Exercice de Rattachement
+IR_FIR_D;43;0204;Identification des prestations relevant du FIR
+IR_FJH_V;6;123.86;Type de Prise en Charge Forfait Journalier
+IR_FOR_V;8;125.36;Forçage du taux
+IR_GDE_V;13;123.92;Grande Discipline de Prestation
+IR_GEO_V;40589;124.99;Géographie Administrative et Sanitaire
+IR_GES_V;477;124.35;Gestion Comptable
+IR_GET_V;7;123.40;Médicament générique
+IR_GHS_SU0_V;2;124.44;Suppléments GHS 2010
+IR_GHS_SU1_V;2;124.52;Suppléments GHS 2011
+IR_GHS_SU2_V;2;124.65;Suppléments GHS 2012
+IR_GHS_SU3_V;2;124.71;Suppléments GHS 2013
+IR_GHS_SU8_V;2;124.44;Suppléments GHS 2008
+IR_GHS_SU9_V;2;124.44;Suppléments GHS 2009
+IR_GHS_TA0_V;2420;124.61;Tarifs GHS 2010
+IR_GHS_TA1_V;2433;124.61;Tarifs GHS 2011
+IR_GHS_TA2_V;2542;124.77;Tarifs GHS 2012
+IR_GHS_TA3_V;2649;124.77;Tarifs GHS 2013
+IR_GHS_TA8_V;804;124.61;Tarifs GHS 2008

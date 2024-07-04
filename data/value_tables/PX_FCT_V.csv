@@ -1,0 +1,345 @@
+APP_APP_COD;TLS_EVT_COD;INF_002;INF_003;TLS_DAT_VAL;FCT_COD;TEC_COL
+VP_J;connexion_ok;CPS;;24JAN2011:00:00:00;cnx01;0
+VP_J;connexion_ok;login;;24JAN2011:00:00:00;cnx02;0
+VP_J;consulter_ape_entree;;;29NOV2011:00:00:00;ape03;0
+VP_J;consulter_ape_sortie;;;29NOV2011:00:00:00;ape04;0
+VP_J;creation_ape_entree;;;29NOV2011:00:00:00;ape02;0
+VP_J;creation_ape_sortie;;;29NOV2011:00:00:00;ape01;0
+VP_J;ws_ok;ALDWS;getListeAld;24JAN2011:00:00:00;ws01;0
+VP_J;ws_ok;AutorisationVitale;Demande;18JUL2012:00:00:00;ws52;0
+VP_J;ws_ok;AutorisationVitale;Verification;18JUL2012:00:00:00;ws53;0
+VP_J;ws_ok;EOWS;transmettreDeclarationMt;18JUL2012:00:00:00;dmt02;0
+VP_J;ws_ok;PSEWS;getListePse;24JAN2011:00:00:00;ws02;0
+VP_J;ws_ok;PSSWS;getListePss;24JAN2011:00:00:00;ws03;0
+VP_J;ws_ok;PSSWS;getPdfPSS;18JUL2012:00:00:00;ws45;0
+VP_J;ws_ok;R5WSExterne;lireDetailPaiementTiersPayant;24JAN2011:00:00:00;ws17;0
+VP_J;ws_ok;R5WSExterne;lireListePaiementTiersPayantParActe;24JAN2011:00:00:00;ws18;0
+VP_J;ws_ok;R5WSExterne;lireListePaiementTiersPayantParBeneficiaire;24JAN2011:00:00:00;ws19;0
+VP_J;ws_ok;R5WSExterne;lireListePaiementTiersPayantParDateEtOrganisme;24JAN2011:00:00:00;ws21;0
+VP_J;ws_ok;R5WSExterne;lireListePaiementTiersPayantParDate;24JAN2011:00:00:00;ws20;0
+VP_J;ws_ok;R5WSExterne;lireListePaiementTiersPayantParNumero;24JAN2011:00:00:00;ws22;0
+VP_J;ws_ok;R5WSExterne;lireListeRemALD;24JAN2011:00:00:00;ws23;0
+VP_J;ws_ok;R5WSExterne;rechercheListePatients;24JAN2011:00:00:00;ws24;0
+VP_J;ws_ok;R5WS;lireDetailPaiementTiersPayant;24JAN2011:00:00:00;ws04;0
+VP_J;ws_ok;R5WS;lireListeAideTeletransmission;24JAN2011:00:00:00;ws05;0
+VP_J;ws_ok;R5WS;lireListePaiementGEA;24JAN2011:00:00:00;ws06;0
+VP_J;ws_ok;R5WS;lireListePaiementIndu;24JAN2011:00:00:00;ws07;0
+VP_J;ws_ok;R5WS;lireListePaiementTiersPayantParActe;24JAN2011:00:00:00;ws08;0
+VP_J;ws_ok;R5WS;lireListePaiementTiersPayantParBeneficiaire;24JAN2011:00:00:00;ws09;0
+VP_J;ws_ok;R5WS;lireListePaiementTiersPayantParDateEtOrganisme;24JAN2011:00:00:00;ws11;0
+VP_J;ws_ok;R5WS;lireListePaiementTiersPayantParDate;24JAN2011:00:00:00;ws10;0
+VP_J;ws_ok;R5WS;lireListePaiementTiersPayantParNumero;24JAN2011:00:00:00;ws12;0
+VP_J;ws_ok;R5WS;lireListeReleveMensuel;24JAN2011:00:00:00;ws13;0
+VP_J;ws_ok;R5WS;lireListeRemALD;24JAN2011:00:00:00;ws14;0
+VP_J;ws_ok;R5WS;rechercheListePatients;24JAN2011:00:00:00;ws15;0
+VP_J;ws_ok;R5WS;recuperEditionReleveCompteMensuel;24JAN2011:00:00:00;ws16;0
+VP_J;ws_ok;T7WS;lireAnneesArchivePdfDispo;24JAN2011:00:00:00;ws25;0
+VP_J;ws_ok;T7WS;lireArchivePdf;24JAN2011:00:00:00;ws26;0
+VP_J;ws_ok;V2WS;lireDroitsCaisse;24JAN2011:00:00:00;ws27;0
+VP_J;ws_ok;VQWS;recupererContratRP;18JUL2012:00:00:00;ws46;0
+VP_J;ws_ok;VQWS;recupererDonneeRefIndicateurRP;18JUL2012:00:00:00;ws47;0
+VP_J;ws_ok;VQWS;recupererTauxSuiviRP;18JUL2012:00:00:00;ws48;0
+VP_J;ws_ok;W3WS;enregistrerMailPS;24JAN2011:00:00:00;ws29;0
+VP_J;ws_ok;W3WS;lireListeCabinetsFromAdeli;24JAN2011:00:00:00;ws32;0
+VP_J;ws_ok;W3WS;lireListeCabinetsFromRpps;18JUL2012:00:00:00;ws49;0
+VP_J;ws_ok;W3WS;lireListeCategories;24JAN2011:00:00:00;ws34;0
+VP_J;ws_ok;W3WS;lireListeIdentitesFromListeNumPS;18JUL2012:00:00:00;ws50;0
+VP_J;ws_ok;W3WS;supprimerMailPS;24JAN2011:00:00:00;ws36;0
+VP_J;ws_ok;W4WS;lireEntreesPatientele;24JAN2011:00:00:00;ws38;0
+VP_J;ws_ok;W4WS;lirePatientele;24JAN2011:00:00:00;ws41;0
+VP_J;ws_ok;W4WS;lireSortiesPatientele;24JAN2011:00:00:00;ws42;0
+VP_J;ws_ok;W5WS;lireInfosOrganisme;24JAN2011:00:00:00;ws43;0
+VP_J;ws_ok;W5WS;lireReferentielOrganismes;24JAN2011:00:00:00;ws44;0
+VP_J;ws_ok;WDWS;determinerCouvertureDesDroits;18JUL2012:00:00:00;ws51;0
+VP_J;ws_ok;WUWS;transmettreDeclarationMt;24JAN2011:00:00:00;dmt02;0
+VP_J;ws_ok;YTWS;transmettreAat;19JUL2011:00:00:00;aat04;0
+VP_X;aat_ok;impression_aat;;29NOV2011:00:00:00;aat02;0
+VP_X;aat_ok;transmission_aat;;29NOV2011:00:00:00;aat01;0
+VP_X;ident_patient_ok;CV;;24JAN2010:00:00:00;idp01;0
+VP_X;ident_patient_ok;NIR;;24JAN2011:00:00:00;idp02;0
+VP_X;imprimer_aat_ok;;;19JUL2011:00:00:00;aat02;0
+VP_X;portail_ok;Acces services/Information;;29NOV2011:00:00:00;cnx12;0
+VP_X;portail_ok;Adresse electronique/Adresse electronique;;24JAN2011:00:00:00;ech03;0
+VP_X;portail_ok;Adresse electronique/Modification de votre adresse;;24JAN2011:00:00:00;cpt06;0
+VP_X;portail_ok;Adresse electronique/Modifier votre adresse de cou;;24JAN2011:00:00:00;cpt05;0
+VP_X;portail_ok;Aides a la teletransmission/Aides a la teletransmi;;24JAN2011:00:00:00;pmt01;0
+VP_X;portail_ok;ameli.fr/ameli.fr;;24JAN2011:00:00:00;boi01;0
+VP_X;portail_ok;Code d acces perdu ou oublie - Connexion/Code;;24JAN2011:00:00:00;cnx06;0
+VP_X;portail_ok;Code d acces/Code d acces personnel a Espa;;24JAN2011:00:00:00;pcx03;0
+VP_X;portail_ok;Code d acces/Modification de votre code d;;24JAN2011:00:00:00;cpt03;0
+VP_X;portail_ok;Code d acces/Modifier votre code d acces;;24JAN2011:00:00:00;cpt01;0
+VP_X;portail_ok;Code d acces/Votre code d acces n a pu;;24JAN2011:00:00:00;cpt02;0
+VP_X;portail_ok;Commander des imprimes/Commander des imprimes;;24JAN2011:00:00:00;cmd02;0
+VP_X;portail_ok;Consulter/Consulter l historique des rembourse;;24JAN2011:00:00:00;hre01;0
+VP_X;portail_ok;Consulter/Consulter une ALD / Protocoles de soins;;24JAN2011:00:00:00;pse02;0
+VP_X;portail_ok;Consulter/Protocole(s) de soins;;19JUL2011:00:00:00;pse01;0
+VP_X;portail_ok;Consulter/Protocoles de soins du patient;;24JAN2011:00:00:00;pse01;0
+VP_X;portail_ok;Contacter l Assurance Maladie par courrier ele;;24JAN2011:00:00:00;ech01;0
+VP_X;portail_ok;Creer/Creer un protocle de soins patient;;24JAN2011:00:00:00;pse03;0
+VP_X;portail_ok;Creer/Creer un protocole de soins;;19JUL2011:00:00:00;pse03;0
+VP_X;portail_ok;Creer/Declaration de choix du medecin traitant;;24JAN2011:00:00:00;dmt01;0
+VP_X;portail_ok;Creer/Formulaire Avis d arret de travail;;19JUL2011:00:00:00;aat03;0
+VP_X;portail_ok;Declarer un deces a l INSERM/Declarer un deces;;24JAN2011:00:00:00;pra01;0
+VP_X;portail_ok;Declarer un parc de vehicules/Declarer un parc de;;24JAN2011:00:00:00;cmd03;0
+VP_X;portail_ok;Formulaires en ligne/Completer des formulaires en;;24JAN2011:00:00:00;cmd04;0
+VP_X;portail_ok;Gardes et astreintes/Gardes et astreintes;;24JAN2011:00:00:00;pmt02;0
+VP_X;portail_ok;Gerer/Gerer le(s) protocole(s) de soins du patient;;24JAN2011:00:00:00;pse04;0
+VP_X;portail_ok;Gerer/Gerer le(s) protocole(s) de soins;;19JUL2011:00:00:00;pse04;0
+VP_X;portail_ok;Historique des commandes/Detail de votre ancienne;;24JAN2011:00:00:00;cmd05;0
+VP_X;portail_ok;Historique des commandes/Historique des commandes;;24JAN2011:00:00:00;cmd06;0
+VP_X;portail_ok;Indus/Indus;;24JAN2011:00:00:00;pmt04;0
+VP_X;portail_ok;Indus/Recherche d indus;;24JAN2011:00:00:00;pmt03;0
+VP_X;portail_ok;Informations professionnelles/Informations profess;;24JAN2011:00:00:00;cpt04;0
+VP_X;portail_ok;Nomenclature des actes CCAM/Nomenclature des actes;;24JAN2011:00:00:00;boi02;0
+VP_X;portail_ok;Page de connexion/Acceder a Espace pro;;29NOV2011:00:00:00;cnx10;0
+VP_X;portail_ok;Page de connexion/Encarts;;29NOV2011:00:00:00;cnx11;0
+VP_X;portail_ok;Page de connexion/Maintenance;;24JAN2011:00:00:00;cnx03;0
+VP_X;portail_ok;Page de connexion/S inscrire a Espace pro;;19JUL2011:00:00:00;cnx04;0
+VP_X;portail_ok;Patientele medecin traitant/Depistage du cancer du;;24JAN2011:00:00:00;pra18;0
+VP_X;portail_ok;Patientele medecin traitant/Liste des patients;;19JUL2011:00:00:00;pra13;0
+VP_X;portail_ok;Patientele medecin traitant/Patientele medecin tra;;24JAN2011:00:00:00;pra02;0
+VP_X;portail_ok;Patientele medecin traitant/Traitement par benzodi;;24JAN2011:00:00:00;pra16;0
+VP_X;portail_ok;Patientele medecin traitant/Traitement par vasodil;;24JAN2011:00:00:00;pra17;0
+VP_X;portail_ok;Patientele medecin traitant/Vaccination contre la;;24JAN2011:00:00:00;pra15;0
+VP_X;portail_ok;Premiere connexion avec CPS/Adresse electronique (;;29NOV2011:00:00:00;pcx01;0
+VP_X;portail_ok;Premiere connexion avec CPS/Adresse electronique e;;24JAN2011:00:00:00;pcx01;0
+VP_X;portail_ok;Premiere connexion sans CPS/Adresse electronique (;;29NOV2011:00:00:00;pcx05;0
+VP_X;portail_ok;Premiere connexion sans CPS/Adresse electronique e;;24JAN2011:00:00:00;pcx05;0
+VP_X;portail_ok;Premiere connexion sans CPS/Code d acces perso;;24JAN2011:00:00:00;pcx02;0
+VP_X;portail_ok;Premiere connexion sans CPS/Question cle;;24JAN2011:00:00:00;pcx04;0
+VP_X;portail_ok;Question cle/Code d acces perdu ou oublie - Qu;;24JAN2011:00:00:00;cnx09;0
+VP_X;portail_ok;Question cle/Modification de votre question cle :;;24JAN2011:00:00:00;cpt07;0
+VP_X;portail_ok;Question cle/Modifier votre question cle;;24JAN2011:00:00:00;cpt08;0
+VP_X;portail_ok;Referentiels HAS/Referentiels HAS;;24JAN2011:00:00:00;boi03;0
+VP_X;portail_ok;Releve individuel d activite et de prescriptio;;24JAN2011:00:00:00;pra03;0
+VP_X;portail_ok;Releves d honoraires/Releve d honoraires;;24JAN2011:00:00:00;pmt05;0
+VP_X;portail_ok;Releves mensuels de paiements/Releves mensuels de;;24JAN2011:00:00:00;pmt06;0
+VP_X;portail_ok;Remuneration specifique medecin traitant ALD/Remun;;24JAN2011:00:00:00;pmt07;0
+VP_X;portail_ok;Renseignements sur le Capi/Renseignements sur le C;;24JAN2011:00:00:00;pra14;0
+VP_X;portail_ok;S inscrire a mon espace pro etablissement/Dema;;24JAN2011:00:00:00;cnx08;0
+VP_X;portail_ok;S inscrire a mon espace pro/Demande de code d&;;24JAN2011:00:00:00;cnx04;0
+VP_X;portail_ok;Service info paiements/Adherer au service info pai;;24JAN2011:00:00:00;cpt10;0
+VP_X;portail_ok;Service info paiements/Confirmation de votre adhes;;24JAN2011:00:00:00;cpt09;0
+VP_X;portail_ok;Support technique/Demander de l assistance tec;;24JAN2011:00:00:00;ech05;0
+VP_X;portail_ok;Support/Support;;24JAN2011:00:00:00;ech04;0
+VP_X;portail_ok;Teleservices de l Assurance Maladie/Teleservic;;24JAN2011:00:00:00;cnx07;0
+VP_X;portail_ok;Test de diagnostic rapide angine/Commander des tes;;24JAN2011:00:00:00;cmd01;0
+VP_X;portail_ok;Tiers Payant: Recherche par date d actes/Tiers;;24JAN2011:00:00:00;pmt08;0
+VP_X;portail_ok;Tiers Payant: Recherche par date de paiements/Tier;;24JAN2011:00:00:00;pmt09;0
+VP_X;portail_ok;Trouver un interlocuteur/Trouver un interlocuteur;;24JAN2011:00:00:00;ech06;0
+VP_X;portail_ok;Validation du courriel/Validation de votre adresse;;24JAN2011:00:00:00;cnx05;0
+VP_X;portail_ok;Vos pratiques/Depistage du cancer du sein;;24JAN2011:00:00:00;pra07;0
+VP_X;portail_ok;Vos pratiques/Diabete a haut risque;;24JAN2011:00:00:00;pra08;0
+VP_X;portail_ok;Vos pratiques/Diabete;;24JAN2011:00:00:00;pra09;0
+VP_X;portail_ok;Vos pratiques/Iatrogenie;;24JAN2011:00:00:00;pra10;0
+VP_X;portail_ok;Vos pratiques/Patients traites par antihypertenseu;;24JAN2011:00:00:00;pra04;0
+VP_X;portail_ok;Vos pratiques/Prescription dans le repertoi;;24JAN2011:00:00:00;pra12;0
+VP_X;portail_ok;Vos pratiques/Taux de prescription d IEC / IEC;;24JAN2011:00:00:00;pra11;0
+VP_X;portail_ok;Vos pratiques/Traitement par aspirine faible dosag;;24JAN2011:00:00:00;pra06;0
+VP_X;portail_ok;Vos pratiques/Vaccination contre la grippe saisonn;;24JAN2011:00:00:00;pra05;0
+VP_X;transmission_aat_ok;;;19JUL2011:00:00:00;aat01;0
+WP_X;aat_ok;impression_aat;;18JUL2012:00:00:00;aat02;0
+WP_X;aat_ok;transmission_aat;;18JUL2012:00:00:00;aat01;0
+WP_X;ident_patient_ok;CV;;18JUL2012:00:00:00;idp01;0
+WP_X;ident_patient_ok;NIR;;18JUL2012:00:00:00;idp02;0
+WP_X;portail_ok;Adresse electronique/Adresse electronique;;18JUL2012:00:00:00;ech03;0
+WP_X;portail_ok;Adresse electronique/Modification de votre adresse;;18JUL2012:00:00:00;cpt06;0
+WP_X;portail_ok;Adresse electronique/Modifier votre adresse de cou;;18JUL2012:00:00:00;cpt05;0
+WP_X;portail_ok;Aides a la teletransmission/Aides a la teletransmi;;18JUL2012:00:00:00;pmt01;0
+WP_X;portail_ok;ameli.fr/ameli.fr;;18JUL2012:00:00:00;boi01;0
+WP_X;portail_ok;Code d acces perdu ou oublie - Connexion/Code;;18JUL2012:00:00:00;cnx06;0
+WP_X;portail_ok;Code d acces/Code d acces personnel a Espa;;18JUL2012:00:00:00;pcx03;0
+WP_X;portail_ok;Code d acces/Modifier votre code d acces;;18JUL2012:00:00:00;cpt01;0
+WP_X;portail_ok;Code d acces/Votre code d acces n a pu;;18JUL2012:00:00:00;cpt02;0
+WP_X;portail_ok;Code perdu/oublie, Compte bloque/Code d acces;;18JUL2012:00:00:00;cpt11;0
+WP_X;portail_ok;Code perdu/oublie, Compte bloque/Confirmation;;18JUL2012:00:00:00;cpt13;0
+WP_X;portail_ok;Code perdu/oublie, Compte bloque/Demande de code d;;18JUL2012:00:00:00;cpt12;0
+WP_X;portail_ok;Commander des imprimes/Commander des imprimes;;18JUL2012:00:00:00;cmd02;0
+WP_X;portail_ok;Consulter/Consulter l historique des rembourse;;18JUL2012:00:00:00;hre01;0
+WP_X;portail_ok;Consulter/Consulter une ALD / Protocoles de soins;;18JUL2012:00:00:00;pse02;0
+WP_X;portail_ok;Consulter/Protocole(s) de soins;;18JUL2012:00:00:00;pse01;0
+WP_X;portail_ok;Contacter l Assurance Maladie par courrier ele;;18JUL2012:00:00:00;ech01;0
+WP_X;portail_ok;Creer/Creer un protocole de soins;;18JUL2012:00:00:00;pse03;0
+WP_X;portail_ok;Creer/Declaration de choix du medecin traitant;;18JUL2012:00:00:00;dmt01;0
+WP_X;portail_ok;Creer/Formulaire Avis d arret de travail;;18JUL2012:00:00:00;aat03;0
+WP_X;portail_ok;Declarer un deces a l INSERM/Declarer un deces;;18JUL2012:00:00:00;pra01;0
+WP_X;portail_ok;Declarer un parc de vehicules/Declarer un parc de;;18JUL2012:00:00:00;cmd03;0
+WP_X;portail_ok;Formulaires en ligne/Completer des formulaires en;;18JUL2012:00:00:00;cmd04;0
+WP_X;portail_ok;Gardes et astreintes/Gardes et astreintes;;18JUL2012:00:00:00;pmt02;0
+WP_X;portail_ok;Gerer/Gerer le(s) protocole(s) de soins;;18JUL2012:00:00:00;pse04;0
+WP_X;portail_ok;Historique des commandes/Detail de votre ancienne;;18JUL2012:00:00:00;cmd05;0
+WP_X;portail_ok;Historique des commandes/Historique des commandes;;18JUL2012:00:00:00;cmd06;0
+WP_X;portail_ok;Indus/Indus;;18JUL2012:00:00:00;pmt04;0
+WP_X;portail_ok;Indus/Recherche d indus;;18JUL2012:00:00:00;pmt03;0
+WP_X;portail_ok;Informations professionnelles/Informations profess;;18JUL2012:00:00:00;cpt04;0
+WP_X;portail_ok;Nomenclature des actes CCAM/Nomenclature des actes;;18JUL2012:00:00:00;boi02;0
+WP_X;portail_ok;Page de connexion/Acceder a Espace pro;;18JUL2012:00:00:00;cnx10;0
+WP_X;portail_ok;Page de connexion/Connexion;;18JUL2012:00:00:00;cnx13;0
+WP_X;portail_ok;Page de connexion/Encarts;;18JUL2012:00:00:00;cnx11;0
+WP_X;portail_ok;Patientele medecin traitant/Depistage du cancer du;;18JUL2012:00:00:00;pra18;0
+WP_X;portail_ok;Patientele medecin traitant/Patientele medecin tra;;18JUL2012:00:00:00;pra02;0
+WP_X;portail_ok;Patientele medecin traitant/Traitement par benzodi;;18JUL2012:00:00:00;pra16;0
+WP_X;portail_ok;Patientele medecin traitant/Traitement par vasodil;;18JUL2012:00:00:00;pra17;0
+WP_X;portail_ok;Patientele medecin traitant/Vaccination contre la;;18JUL2012:00:00:00;pra15;0
+WP_X;portail_ok;Premiere connexion avec CPS/Adresse electronique;;18JUL2012:00:00:00;pcx01;0
+WP_X;portail_ok;Premiere connexion sans CPS/Adresse electronique;;18JUL2012:00:00:00;pcx05;0
+WP_X;portail_ok;Premiere connexion sans CPS/Code d acces perso;;18JUL2012:00:00:00;pcx02;0
+WP_X;portail_ok;Premiere connexion sans CPS/Premiere connexion;;18JUL2012:00:00:00;pcx06;0
+WP_X;portail_ok;Premiere connexion sans CPS/Question cle;;18JUL2012:00:00:00;pcx04;0
+WP_X;portail_ok;Question cle/Code d acces perdu ou oublie - Qu;;18JUL2012:00:00:00;cnx09;0
+WP_X;portail_ok;Question cle/Modification de votre question cle :;;18JUL2012:00:00:00;cpt07;0
+WP_X;portail_ok;Question cle/Modifier votre question cle;;18JUL2012:00:00:00;cpt08;0
+WP_X;portail_ok;Referentiels et Memos/Referentiels et Memos;;18JUL2012:00:00:00;pra20;0
+WP_X;portail_ok;Referentiels HAS/Referentiels HAS;;18JUL2012:00:00:00;boi03;0
+WP_X;portail_ok;Releve individuel d activite et de prescriptio;;18JUL2012:00:00:00;pra03;0
+WP_X;portail_ok;Releves d honoraires/Releve d honoraires;;18JUL2012:00:00:00;pmt05;0
+WP_X;portail_ok;Releves mensuels de paiements/Releves mensuels de;;18JUL2012:00:00:00;pmt06;0
+WP_X;portail_ok;Remuneration specifique medecin traitant ALD/Remun;;18JUL2012:00:00:00;pmt07;0
+WP_X;portail_ok;Renseignements sur le Capi/Renseignements sur le C;;18JUL2012:00:00:00;pra14;0
+WP_X;portail_ok;S inscrire a mon espace pro etablissement/Dema;;18JUL2012:00:00:00;cnx08;0
+WP_X;portail_ok;S inscrire a mon espace pro/Demande de code d&;;18JUL2012:00:00:00;cnx04;0
+WP_X;portail_ok;Support technique/Demander de l assistance tec;;18JUL2012:00:00:00;ech05;0
+WP_X;portail_ok;Support technique/Support technique;;18JUL2012:00:00:00;ech07;0
+WP_X;portail_ok;Support/Support;;18JUL2012:00:00:00;ech04;0
+WP_X;portail_ok;Teleservices de l Assurance Maladie/Teleservic;;18JUL2012:00:00:00;cnx07;0
+WP_X;portail_ok;Test de diagnostic rapide angine/Commander des tes;;18JUL2012:00:00:00;cmd01;0
+WP_X;portail_ok;Tiers Payant: Recherche par date d actes/Tiers;;18JUL2012:00:00:00;pmt08;0
+WP_X;portail_ok;Tiers Payant: Recherche par date de paiements/Tier;;18JUL2012:00:00:00;pmt09;0
+WP_X;portail_ok;Trouver un interlocuteur/Trouver un interlocuteur;;18JUL2012:00:00:00;ech06;0
+WP_X;portail_ok;Validation du courriel/Demande de code d acces;;18JUL2012:00:00:00;cpt14;0
+WP_X;portail_ok;Validation du courriel/Validation de votre adresse;;18JUL2012:00:00:00;cnx05;0
+WP_X;portail_ok;Vos pratiques/Depistage du cancer du sein;;18JUL2012:00:00:00;pra07;0
+WP_X;portail_ok;Vos pratiques/Diabete a haut risque;;18JUL2012:00:00:00;pra08;0
+WP_X;portail_ok;Vos pratiques/Diabete;;18JUL2012:00:00:00;pra09;0
+WP_X;portail_ok;Vos pratiques/Iatrogenie;;18JUL2012:00:00:00;pra10;0
+WP_X;portail_ok;Vos pratiques/Patients traites par antihypertenseu;;18JUL2012:00:00:00;pra04;0
+WP_X;portail_ok;Votre Convention/Patients en ALD;;18JUL2012:00:00:00;pra41;0
+WP_X;portail_ok;Votre Convention/Statines + anticoagulants;;18JUL2012:00:00:00;pra43;0
+WP_X;portail_ok;Votre Convention/Statines;;18JUL2012:00:00:00;pra42;0
+WP_X;portail_ok;Votre Convention/Synthese annuelle des pati;;18JUL2012:00:00:00;pra44;0
+WP_X;portail_ok;Votre Convention/Vasodilatateurs;;18JUL2012:00:00:00;pra45;0
+WP_X;refmemos_impr_ok;;;18JUL2012:00:00:00;pra19;0
+XXXXX;Valeur inconnue;;;01JAN2011:00:00:00;99;1
+YT_M;ws_ok;YTWS;transmettreAat;19JUL2011:00:00:00;aat04;0
+WP_X;portail_ok;Consulter/Consulter les demandes d accords pre;;18DEC2012:00:00:00;ape05;0
+WP_X;portail_ok;Consulter/Demande d accord prealable;;18DEC2012:00:00:00;ape06;0
+WP_X;portail_ok;Creer/Demande d accord prealable;;18DEC2012:00:00:00;ape07;0
+WP_X;portail_ok;Creer/Demande d accord prealable - Depot;;18DEC2012:00:00:00;ape08;0
+WP_X;portail_ok;Creer/Demande d accord prealable - Recapitulat;;18DEC2012:00:00:00;ape09;0
+WP_X;portail_ok;Gerer/Gerer les demandes d accords prealables;;18DEC2012:00:00:00;ape10;0
+WP_X;portail_ok;Gerer/Demande d accord prealable - Abandonne;;18DEC2012:00:00:00;ape11;0
+WP_X;portail_ok;Gerer/Demande d accord prealable - Avis SM;;18DEC2012:00:00:00;ape12;0
+WP_X;portail_ok;Gerer/Demande d accord prealable - Brouillon;;18DEC2012:00:00:00;ape13;0
+WP_X;portail_ok;Gerer/Demande d accord prealable - Concertatio;;18DEC2012:00:00:00;ape14;0
+WP_X;portail_ok;Gerer/Demande d accord prealable - Depot;;18DEC2012:00:00:00;ape15;0
+WP_X;portail_ok;Gerer/Demande d accord prealable - Recapitulat;;18DEC2012:00:00:00;ape16;0
+WP_X;portail_ok;Gerer/Demande d accord prealable - Transmis;;18DEC2012:00:00:00;ape17;0
+VP_J;connexion_ok;CPE;;18DEC2012:00:00:00;cnx14;0
+WP_X;portail_ok;Page de connexion/Code d acces perdu ou oublie;;18DEC2012:00:00:00;cnx15;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Antibio;;18DEC2012:00:00:00;pra21;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Antid&e;;18DEC2012:00:00:00;pra23;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Antihyp;;18DEC2012:00:00:00;pra24;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Aspirin;;18DEC2012:00:00:00;pra25;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Benzodi;;18DEC2012:00:00:00;pra26;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Cancer;;18DEC2012:00:00:00;pra28;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/D&eacut;;18DEC2012:00:00:00;pra30;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Fr&eacu;;18DEC2012:00:00:00;pra31;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Horaire;;18DEC2012:00:00:00;pra32;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/IEC/IEC;;18DEC2012:00:00:00;pra33;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Indicat;;18DEC2012:00:00:00;pra34;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/IPP;;18DEC2012:00:00:00;pra35;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Logicie;;18DEC2012:00:00:00;pra36;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Convent;;18DEC2012:00:00:00;pra39;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Patient;;18DEC2012:00:00:00;pra40;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Statine;;18DEC2012:00:00:00;pra42;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Synth&e;;18DEC2012:00:00:00;pra44;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Vasodil;;18DEC2012:00:00:00;pra45;0
+WP_X;portail_ok;Convention - Indicateurs de sante publique/Liste d;;18DEC2012:00:00:00;pra46;0
+VP_J;ws_ok;M6WS;lireAdressePatient;18DEC2012:00:00:00;ws54;0
+VP_J;ws_ok;M6WS;lireContenuPieceJointe;18DEC2012:00:00:00;ws55;0
+VP_J;ws_ok;M6WS;lireListeActes;18DEC2012:00:00:00;ws56;0
+VP_J;ws_ok;M6WS;lireListeActesAllNatures;18DEC2012:00:00:00;ws57;0
+VP_J;ws_ok;M6WS;lireListeAllAvis;18DEC2012:00:00:00;ws58;0
+VP_J;ws_ok;W3WS;getNumAdeliFromNumRpps;18DEC2012:00:00:00;ws59;0
+VP_J;ws_ok;W3WS;lireIndentitePSDepuisFiness;18DEC2012:00:00:00;ws60;0
+VP_J;ws_ok;W3WS;lireListeNumeroPSFromSiret;18DEC2012:00:00:00;ws61;0
+WP_X;portail_ok;Vos pratiques/Prescription dans le repertoi;;18JUL2012:00:00:00;pra12;0
+WP_X;portail_ok;Vos pratiques/Taux de prescription d IEC / IEC;;18JUL2012:00:00:00;pra11;0
+WP_X;portail_ok;Vos pratiques/Traitement par aspirine faible dosag;;18JUL2012:00:00:00;pra06;0
+WP_X;portail_ok;Vos pratiques/Vaccination contre la grippe saisonn;;18JUL2012:00:00:00;pra05;0
+WP_X;portail_ok;ROSP/Antibiotherapie;;12DEC2013:00:00:00;pra21;0
+WP_X;portail_ok;ROSP/Antibiotiques;;12DEC2013:00:00:00;pra22;0
+WP_X;portail_ok;ROSP/Antidepresseurs;;12DEC2013:00:00:00;pra23;0
+WP_X;portail_ok;ROSP/Antihypertenseurs;;12DEC2013:00:00:00;pra24;0
+WP_X;portail_ok;ROSP/Aspirine/Antiagregants plaquettaires;;12DEC2013:00:00:00;pra25;0
+WP_X;portail_ok;ROSP/Benzodiazepines - duree de trai;;12DEC2013:00:00:00;pra26;0
+WP_X;portail_ok;ROSP/Benzodiazepines 1/2 vie longue;;12DEC2013:00:00:00;pra27;0
+WP_X;portail_ok;ROSP/Cancer du col de l uterus;;12DEC2013:00:00:00;pra28;0
+WP_X;portail_ok;ROSP/Cancer du sein;;12DEC2013:00:00:00;pra29;0
+WP_X;portail_ok;ROSP/Depistage de la retinopathie;;12DEC2013:00:00:00;pra30;0
+WP_X;portail_ok;ROSP/Frequence dosages HbA1c;;12DEC2013:00:00:00;pra31;0
+WP_X;portail_ok;ROSP/Horaires et organisation du cabinet;;12DEC2013:00:00:00;pra32;0
+WP_X;portail_ok;ROSP/IEC/IEC+Sartans;;12DEC2013:00:00:00;pra33;0
+WP_X;portail_ok;ROSP/Indicateur Generique;;12DEC2013:00:00:00;pra34;0
+WP_X;portail_ok;ROSP/IPP;;12DEC2013:00:00:00;pra35;0
+WP_X;portail_ok;ROSP/Logiciel d aide a la prescription;;12DEC2013:00:00:00;pra36;0
+WP_X;portail_ok;ROSP/Logiciel d informatisation du dossier m&e;;12DEC2013:00:00:00;pra37;0
+WP_X;portail_ok;ROSP/Logiciel de teletransmission et;;12DEC2013:00:00:00;pra38;0
+WP_X;portail_ok;ROSP/Convention - Indicateurs de sante publique -;;12DEC2013:00:00:00;pra39;0
+WP_X;portail_ok;ROSP/Patients de +65 ans;;12DEC2013:00:00:00;pra40;0
+WP_X;portail_ok;ROSP/Patients en ALD;;12DEC2013:00:00:00;pra41;0
+WP_X;portail_ok;ROSP/Statines;;12DEC2013:00:00:00;pra42;0
+WP_X;portail_ok;ROSP/Statines + anticoagulants;;12DEC2013:00:00:00;pra43;0
+WP_X;portail_ok;ROSP/Synthese annuelle par patient;;12DEC2013:00:00:00;pra44;0
+WP_X;portail_ok;ROSP/Vasodilatateurs;;12DEC2013:00:00:00;pra45;0
+WP_X;portail_ok;ROSP/Patients diabetiques type II - HbA1C 7;;12DEC2013:00:00:00;pra47;0
+WP_X;portail_ok;ROSP/Patients diabetiques type II - HbA1C 8;;12DEC2013:00:00:00;pra48;0
+WP_X;portail_ok;ROSP/Patients diabetiques type II - LDL 1.3;;12DEC2013:00:00:00;pra49;0
+WP_X;portail_ok;ROSP/Patients diabetiques type II - LDL 1.5;;12DEC2013:00:00:00;pra50;0
+WP_X;portail_ok;ROSP/Patients hypertendus;;12DEC2013:00:00:00;pra51;0
+WP_X;portail_ok;ROSP - Cardiologues/Antihypertenseurs;;01JAN2014:00:00:00;pra53;0
+WP_X;portail_ok;ROSP - Cardiologues/Antiplaquettaires : arre;;01JAN2014:00:00:00;pra54;0
+WP_X;portail_ok;ROSP - Cardiologues/Horaires et organisation du ca;;01JAN2014:00:00:00;pra55;0
+WP_X;portail_ok;ROSP - Cardiologues/HTA;;01JAN2014:00:00:00;pra56;0
+WP_X;portail_ok;ROSP - Cardiologues/Hypertension arterielle;;01JAN2014:00:00:00;pra57;0
+WP_X;portail_ok;ROSP - Cardiologues/Indicateur Generique;;01JAN2014:00:00:00;pra58;0
+WP_X;portail_ok;ROSP - Cardiologues/Insuffisance cardiaque;;01JAN2014:00:00:00;pra59;0
+WP_X;portail_ok;ROSP - Cardiologues/Insuffisance cardiaque : trait;;01JAN2014:00:00:00;pra60;0
+WP_X;portail_ok;ROSP - Cardiologues/LDL Cholesterol chez le;;01JAN2014:00:00:00;pra61;0
+WP_X;portail_ok;ROSP - Cardiologues/Logiciel d aide a l;;01JAN2014:00:00:00;pra62;0
+WP_X;portail_ok;ROSP - Cardiologues/Logiciel d informatisation;;01JAN2014:00:00:00;pra63;0
+WP_X;portail_ok;ROSP - Cardiologues/Logiciel de tele;;01JAN2014:00:00:00;pra64;0
+WP_X;portail_ok;ROSP - Cardiologues/Post infarctus du myocarde;;01JAN2014:00:00:00;pra65;0
+WP_X;portail_ok;ROSP - Cardiologues/Post infarctus du myocarde : t;;01JAN2014:00:00:00;pra66;0
+WP_X;portail_ok;ROSP - Cardiologues/ROSP - Cardiologues - Menu;;01JAN2014:00:00:00;pra52;0
+WP_X;portail_ok;ROSP - Cardiologues/Statines;;01JAN2014:00:00:00;pra67;0
+WP_X;portail_ok;ROSP - Cardiologues/Stents;;01JAN2014:00:00:00;pra68;0
+WP_X;portail_ok;ROSP - Cardiologues/Surveillance hypertension art&;;01JAN2014:00:00:00;pra69;0
+WP_X;portail_ok;ROSP - Cardiologues/Surveillance traitement diur&e;;01JAN2014:00:00:00;pra70;0
+WP_X;portail_ok;Commande d imprimes/Commande d imprimes;;15MAR2017:00:00:00;cmd02;0
+WP_X;portail_ok;Tiers payant : recherche par date d actes/Tier;;15MAR2017:00:00:00;pmt08;0
+WP_X;portail_ok;Tiers payant : recherche par date de paiements/Tie;;15MAR2017:00:00:00;pmt09;0
+WP_X;portail_ok;Tiers payant : date de paiements/Tiers Payant : Re;;19MAR2018:00:00:00;pmt09;0
+WP_X;portail_ok;Tiers payant : date d actes/Tiers Payant : Rec;;18MAR2018:00:00:00;pmt08;0
+WP_X;portail_ok;Declaration d un deces (INSERM)/Declaration d&;;19MAR2018:00:00:00;pra01;0
+WP_X;portail_ok;Releve d activite et de prescriptions/Releve i;;19MAR2018:00:00:00;pra03;0
+WP_X;portail_ok;Votre Convention/Antibiotherapie;;18JUL2012:00:00:00;pra21;0
+WP_X;portail_ok;Votre Convention/Antibiotiques;;18JUL2012:00:00:00;pra22;0
+WP_X;portail_ok;Votre Convention/Antidepresseurs;;18JUL2012:00:00:00;pra23;0
+WP_X;portail_ok;Votre Convention/Antihypertenseurs;;18JUL2012:00:00:00;pra24;0
+WP_X;portail_ok;Votre Convention/Aspirine/Antiagregants pla;;18JUL2012:00:00:00;pra25;0
+WP_X;portail_ok;Votre Convention/Benzodiazepines - dur&eacu;;18JUL2012:00:00:00;pra26;0
+WP_X;portail_ok;Votre Convention/Benzodiazepines 1/2 vie lo;;18JUL2012:00:00:00;pra27;0
+WP_X;portail_ok;Votre Convention/Cancer du col de l ute;;18JUL2012:00:00:00;pra28;0
+WP_X;portail_ok;Votre Convention/Cancer du sein;;18JUL2012:00:00:00;pra29;0
+WP_X;portail_ok;Votre Convention/Depistage de la ret;;18JUL2012:00:00:00;pra30;0
+WP_X;portail_ok;Votre Convention/Frequence dosages HbA1c;;18JUL2012:00:00:00;pra31;0
+WP_X;portail_ok;Votre Convention/Horaires de consultation;;18JUL2012:00:00:00;pra32;0
+WP_X;portail_ok;Votre Convention/IEC/IEC+Sartans;;18JUL2012:00:00:00;pra33;0
+WP_X;portail_ok;Votre Convention/Indicateur Generique;;18JUL2012:00:00:00;pra34;0
+WP_X;portail_ok;Votre Convention/IPP;;18JUL2012:00:00:00;pra35;0
+WP_X;portail_ok;Votre Convention/Logiciel d aide a la p;;18JUL2012:00:00:00;pra36;0
+WP_X;portail_ok;Votre Convention/Logiciel d informatisation du;;18JUL2012:00:00:00;pra37;0
+WP_X;portail_ok;Votre Convention/Logiciel de teletra;;18JUL2012:00:00:00;pra38;0
+WP_X;portail_ok;Votre Convention/Menu;;18JUL2012:00:00:00;pra39;0
+WP_X;portail_ok;Votre Convention/Patients de +65 ans;;18JUL2012:00:00:00;pra40;0

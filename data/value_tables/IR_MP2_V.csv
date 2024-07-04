@@ -1,0 +1,38 @@
+MOD_MOD_NEW;MOD_MOD_COD;MOD_VAL_DTD;MOD_VAL_DTF;MOD_COD_LIB;TEC_COL
+A;A;01JAN1600:00:00:00;31DEC2999:00:00:00;Anesthesie patient < 4 ans ou > 80 ans;0
+B;B;01JAN1600:00:00:00;31DEC2999:00:00:00;Radio. au bloc operatoire, unite de rea. ou lit du patient intransportable;0
+C;C;01JAN1600:00:00:00;31DEC2999:00:00:00;Radio. comparative des membres;0
+D;D;01JAN1600:00:00:00;31DEC2999:00:00:00;Controle radio. segment squelette immobilisé par contention rigide;0
+E;E;01JAN1600:00:00:00;31DEC2999:00:00:00;Radiologie conventionnelle ou scanographie patient < 5 ans;0
+F;F;01JAN1600:00:00:00;31DEC2999:00:00:00;Actes en urgence dimanche ou jour ferie;0
+G;G;01JAN1600:00:00:00;31DEC2999:00:00:00;Glaucome... patient < 1 an , Extraction oeso ou bronch. patient < 3 ans , Med. nuc. patient < 3 ans;0
+H;H;01JAN1600:00:00:00;31DEC2999:00:00:00;Radiotherapie niveau 1;0
+I;I;01JAN1600:00:00:00;31DEC2999:00:00:00;Modificateur transitoire de convergence vers la cible, valeur 3 (date de fin 31/12/2014);0
+J;J;01JAN1600:00:00:00;31DEC2999:00:00:00;Majoration transitoire de chirurgie;0
+K;K;01JAN1600:00:00:00;14JUN2017:00:00:00;Jusqu'au 14 juin 2017 : Majoration forfaits modulables accouchements gyneco. et chir sect. 1 ou 2 adherant, pour actes avec J;0
+K1;K;15JUN2017:00:00:00;31DEC2999:00:00:00;A partir du 15 juin 2017 : Majoration forfaits modulables pour actes accouchements par SF et gyneco. et pour actes avec J des chirurgiens en secteur 1 et adhérant OPTAMCO et par les chirurgiens-dentistes spécialistes en chirurgie orale;0
+L;L;01JAN1600:00:00:00;31DEC2999:00:00:00;Traitement fracture ou luxation ouverte;0
+M;M;01JAN1600:00:00:00;31DEC2999:00:00:00;Urgence cabinet médecin généraliste ou du pédiatre, après examen en urgence d un patient;0
+O;O;01JAN1600:00:00:00;31DEC2017:00:00:00;Modificateur transitoire de convergence vers la cible valeur 1 (date de fin 31/12/2014);0
+O1;O;01JAN2018:00:00:00;31DEC2999:00:00:00;Depuis le 01/01/2018 : URGENCE DIURNE;0
+P;P;01JAN1600:00:00:00;31DEC2999:00:00:00;Acte réalisé en urgence par les pédiatres et médecins généralistes de 20h à 00h;0
+Q;Q;01JAN1600:00:00:00;31DEC2999:00:00:00;Radiotherapie niveau 2;0
+R;R;01JAN1600:00:00:00;31DEC2999:00:00:00;Chirurgie plastique téguments face, cou, main et doigts;0
+S;S;01JAN1600:00:00:00;31DEC2999:00:00:00;Urgence nuit 00h-08h pediatres et med. gen. ou autres med. pr acte thérapeutique sous anesthésie;0
+T;T;01JAN1600:00:00:00;14JUN2017:00:00:00;Jusqu'au 14 juin 2017 : Bilatéral, hors radiologie conventionnelle et chirurgie sur les membres;0
+T1;T;15JUN2017:00:00:00;31DEC2999:00:00:00;A partir du 15 juin 2017, Majoration forfaits modulables pour actes accouchement des sages-femmes et des gyneco. adherant OPTAM et pour actes avec J des chirurgiens adherant OPTAM;0
+U;U;01JAN1600:00:00:00;31DEC2999:00:00:00;Urgence hors pediatres et omnipraticiens nuit 20 h - 8 h;0
+V;V;01JAN1600:00:00:00;31DEC2999:00:00:00;Radiotherapie niveau 3;0
+W;W;01JAN1600:00:00:00;31DEC2999:00:00:00;Radiotherapie niveau 4;0
+X;X;01JAN1600:00:00:00;31DEC2999:00:00:00;Modificateur transitoire de convergence vers la cible, valeur 4 (date de fin 31/12/2014);0
+Y;Y;01JAN1600:00:00:00;27APR2017:00:00:00;Jusqu'au 27/04/2017 en date de soins , Radiographie réalisée par pneumologue ou rhumatologue;0
+Y1;Y;28APR2017:00:00:00;31DEC2999:00:00:00;A partir du 28/04/2017 en date de soins, Radiographie réalisée par un radiologue, un pneumologue ou un rhumatologue;0
+Z;Z;01JAN1600:00:00:00;31DEC2999:00:00:00;Radiographie réalisée par radiologue (fermeture en date de soins du 28/04/2017);0
+0;0;01JAN1600:00:00:00;31DEC2999:00:00:00;Valeur inconnue;1
+6;6;01JAN1600:00:00:00;31DEC2999:00:00:00;Intervention iterative glaucome..., voies biliaires ou urinaires;0
+7;7;01JAN1600:00:00:00;31DEC2999:00:00:00;Presence permanente anesthesiste durant intervention;0
+8;8;01JAN1600:00:00:00;31DEC2999:00:00:00;Anesthesie intervention iterative glaucome..., voies biliaires ou urinaires;0
+9;9;01JAN1600:00:00:00;31DEC2999:00:00:00;Modificateur transitoire de convergence vers la cible, valeur 2 (date de fin 31/12/2014);0
+4;4;21FEB2020:00:00:00;31DEC2999:00:00:00;Majoration peropératoire et suivi analgésie postopératoire ou rachidienne sans cathéter périnerveux ou rachidien;0
+5;5;21FEB2020:00:00:00;31DEC2999:00:00:00;Majoration peropératoire et suivi analgésie postopératoire ou rachidienne avec cathéter périnerveux ou rachidien;0
+N;N;01JUN2014:00:00:00;31DEC2999:00:00:00;Majoration pour acte de restauration des tissus durs de la dent ou d'endodontie sur dents permanentes chez enfant <13 ans;0
